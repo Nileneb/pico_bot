@@ -133,4 +133,4 @@ my_chain = RunnableWithMessageHistory(
 ).with_types(input_type=ChainInputs)
 
 # %% uncomment this line to print the chain architecture on startup
-# chain.get_graph().print_ascii()
+chain.get_graph().print_ascii()

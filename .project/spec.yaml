@@ -213,6 +213,8 @@ execution:
   secrets:
   - variable: NGC_API_KEY
     description: NGC Personal Key from https://org.ngc.nvidia.com/setup/personal-keys
+  - variable: NVIDIA_API_KEY
+    description: ""
   mounts:
   - type: project
     target: /project/
