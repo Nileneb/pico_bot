@@ -18,6 +18,7 @@
 
 from operator import itemgetter
 
+import redis
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain_community.chat_message_histories import RedisChatMessageHistory
 from langchain_core.documents import Document
@@ -30,6 +31,7 @@ from pydantic import BaseModel
 
 from . import prompts
 from .configuration import config as app_config
+from .pubmed_searcher import PubMedMeshSearcher
 
 # %% unstructured data retrieval components
 embedding_model = NVIDIAEmbeddings(
@@ -100,10 +102,35 @@ async def question_parsing(msg, config) -> str:
     return msg["question"]
 
 
+# Setup components
+pubmed_searcher = PubMedMeshSearcher(
+    embedding_model=embedding_model,  # Same as in your chain setup
+    milvus_collection=vector_store,  # Milvus collection
+    redis_client=redis.Redis.from_url(str(app_config.redis_dsn)),  # Redis client
+)
+
+
+# Add the searcher to the chain
+@chain
+async def retrieve_pubmed_context(msg, config) -> str:
+    """Retrieve PubMed abstracts and generate embeddings."""
+    query = msg["question"]
+    try:
+        result = await pubmed_searcher.invoke(query, config)
+        if not result:
+            return "No relevant results found from PubMed."
+        return result
+    except Exception as e:
+        # Log the error and return a default message
+        print(f"Error retrieving PubMed context: {e}")
+        return "An error occurred while retrieving PubMed data."
+
+
 my_chain = (
     {
         "context": retrieve_context,
         "question": question_parsing,
+        "pubmed": retrieve_pubmed_context,
         "history": itemgetter("history"),
     }
     | RunnablePassthrough().with_config(run_name="LLM Prompt Input")

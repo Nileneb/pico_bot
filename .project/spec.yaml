@@ -215,6 +215,8 @@ execution:
     description: NGC Personal Key from https://org.ngc.nvidia.com/setup/personal-keys
   - variable: NVIDIA_API_KEY
     description: ""
+  - variable: HUGGING_FACE_HUB_TOKEN
+    description: hf token
   mounts:
   - type: project
     target: /project/
