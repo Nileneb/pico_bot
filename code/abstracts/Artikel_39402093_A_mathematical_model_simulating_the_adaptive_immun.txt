@@ -1,0 +1,62 @@
+Titel: A mathematical model simulating the adaptive immune response in various vaccines and vaccination strategies.
+Autoren: Xu Z, Song J, Zhang H, Wei Z, Wei D, Yang G, Demongeot J, Zeng Q
+Veröffentlichungsdatum: 2024 Oct 14
+
+Abstract:
+1. Sci Rep. 2024 Oct 14;14(1):23995. doi: 10.1038/s41598-024-74221-x.
+
+A mathematical model simulating the adaptive immune response in various vaccines 
+and vaccination strategies.
+
+Xu Z(1), Song J(2), Zhang H(2), Wei Z(2), Wei D(3)(4)(5), Yang G(6), Demongeot 
+J(7), Zeng Q(8).
+
+Author information:
+(1)Department of Life Science, Dezhou University, Dezhou, 253023, China. 
+xuzhaobin@dzu.edu.cn.
+(2)Department of Life Science, Dezhou University, Dezhou, 253023, China.
+(3)State Key Laboratory of Microbial Metabolism, Shanghai-Islamabad-Belgrade 
+Joint Innovation Center on Antibacterial Resistances, Joint International 
+Research Laboratory of Metabolic & Developmental Sciences, School of Life 
+Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, 200030, P. 
+R. China.
+(4)Zhongjing Research and Industrialization Institute of Chinese Medicine, 
+Zhongguancun Scientific Park, Meixi, Nanyang, 473006, Henan, P. R. China.
+(5)Peng Cheng National Laboratory, Vanke Cloud City Phase I Building 8, Xili 
+Street, Nashan District, 518055, Shenzhen, Guangdong, P. R. China.
+(6)Department of Arts, Dezhou University, 253023, Dezhou, China.
+(7)Laboratory AGEIS EA 7407, Team Tools for e-Gnosis Medical, Faculty of 
+Medicine, University Grenoble Alpes (UGA), 38700, La Tronche, France. 
+jacques.demongeot@univ-grenoble-alpes.fr.
+(8)Department of Life Science, Dezhou University, Dezhou, 253023, China. 
+zengqiangcheng@126.com.
+
+Vaccination has been widely recognized as an effective measure for preventing 
+infectious diseases. To facilitate quantitative research into the activation of 
+adaptive immune responses in the human body by vaccines, it is important to 
+develop an appropriate mathematical model, which can provide valuable guidance 
+for vaccine development. In this study, we constructed a novel mathematical 
+model to simulate the dynamics of antibody levels following vaccination, based 
+on principles from immunology. Our model offers a concise and accurate 
+representation of the kinetics of antibody response. We conducted a comparative 
+analysis of antibody dynamics within the body after administering several common 
+vaccines, including traditional inactivated vaccines, mRNA vaccines, and future 
+attenuated vaccines based on defective interfering viral particles (DVG). Our 
+findings suggest that booster shots play a crucial role in enhancing 
+Immunoglobulin G (IgG) antibody levels, and we provide a detailed discussion on 
+the advantages and disadvantages of different vaccine types. From a mathematical 
+standpoint, our model proposes four essential approaches to guide vaccine 
+design: enhancing antigenic T-cell immunogenicity, directing the production of 
+high-affinity antibodies, reducing the rate of IgG decay, and lowering the peak 
+level of vaccine antigen-antibody complexes. Our study contributes to the 
+understanding of vaccine design and its application by explaining various 
+phenomena and providing guidance in comprehending the interactions between 
+antibodies and antigens during the immune process.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-74221-x
+PMCID: PMC11473516
+PMID: 39402093 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

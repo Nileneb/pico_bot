@@ -1,0 +1,56 @@
+Titel: Prevalence of Human Papillomavirus (HPV) and HPV Type Distribution in Penile Samples in Young Men in Denmark: Results 10 Years After Implementation of a Girls-Only HPV Vaccination Program.
+Autoren: Munk C, Reinholdt K, Kjaer AK, Hemmingsen CH, Ørnskov D, Iftner T, Waldstrøm M, Kjaer SK
+Veröffentlichungsdatum: 2024 Oct 16
+
+Abstract:
+1. J Infect Dis. 2024 Oct 16;230(4):949-956. doi: 10.1093/infdis/jiae068.
+
+Prevalence of Human Papillomavirus (HPV) and HPV Type Distribution in Penile 
+Samples in Young Men in Denmark: Results 10 Years After Implementation of a 
+Girls-Only HPV Vaccination Program.
+
+Munk C(1), Reinholdt K(1), Kjaer AK(1), Hemmingsen CH(1), Ørnskov D(2), Iftner 
+T(3), Waldstrøm M(2), Kjaer SK(1)(4).
+
+Author information:
+(1)Unit of Virus, Lifestyle and Genes, Danish Cancer Institute, Copenhagen.
+(2)Department of Pathology, Vejle Hospital, Vejle, Denmark.
+(3)Institute of Medical Virology, University of Tübingen, Tübingen, Germany.
+(4)Department of Gynecology, Copenhagen University Hospital Rigshospitalet, 
+Copenhagen, Denmark.
+
+BACKGROUND: In Denmark, a girls-only human papillomavirus (HPV) vaccination 
+program was initiated in 2008-2009. The study aim was to assess the HPV 
+prevalence and type distribution in younger men prior to HPV vaccination in men.
+METHODS: The study population was younger men who attended information days 
+regarding military service. At random days (2019-2020), 280 men were included. 
+We collected questionnaire data regarding risk factors for HPV infection and a 
+penile swab for HPV testing. We compared results in this study with those from a 
+previous study of young men (2006-2007).
+RESULTS: The majority of participants (94%) were 18-20 years old. The median 
+number of lifetime sexual partners was 4. Altogether, 130 men (46.4%) were HPV 
+positive. No infections with HPV types 6, 11, 16, 18, 31, and 45 were detected. 
+The most frequent type was HPV-51 (detected in 11.1%). Comparison showed that 
+the odds of high-risk HPV type infection were higher in 2019-2020 (prevalence 
+odds ratio [POR], 1.7 [95% confidence interval {CI}, 1.1-2.7]) compared with 
+2006-2007. In contrast, the odds were lower (POR, 0.3 [95% CI, .1-.6]) for HPV 
+types targeted by the 9-valent HPV vaccine.
+CONCLUSIONS: The multicohort girls-only vaccination program has to a large 
+degree protected young men against the HPV types included in the licensed 
+vaccines. This does not speak against gender-neutral vaccination as the HPV 
+prevalence is still high, although consisting largely of less carcinogenic HPV 
+types.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of 
+Infectious Diseases Society of America. All rights reserved. For permissions, 
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiae068
+PMID: 38470214 [Indexed for MEDLINE]
+
+Conflict of interest statement: Potential conflicts of interest . T. I. has 
+received speaker honoraria from Roche and Hologic. S. K. K. has received 
+research grants through her research institution from Merck. All other authors 
+report no potential conflicts. All authors have submitted the ICMJE Form for 
+Disclosure of Potential Conflicts of Interest. Conflicts that the editors 
+consider relevant to the content of the manuscript have been disclosed.

@@ -1,0 +1,62 @@
+Titel: Respiratory Syncytial Virus Prefusion F Vaccination: Antibody Persistence and Revaccination.
+Autoren: Walsh EE, Falsey AR, Zareba AM, Jiang Q, Gurtman A, Radley D, Gomme E, Cooper D, Jansen KU, Gruber WC, Swanson KA, Schmoele-Thoma B
+Veröffentlichungsdatum: 2024 Oct 16
+
+Abstract:
+1. J Infect Dis. 2024 Oct 16;230(4):e905-e916. doi: 10.1093/infdis/jiae185.
+
+Respiratory Syncytial Virus Prefusion F Vaccination: Antibody Persistence and 
+Revaccination.
+
+Walsh EE(1), Falsey AR(1), Zareba AM(2), Jiang Q(2), Gurtman A(3), Radley D(3), 
+Gomme E(3), Cooper D(3), Jansen KU(3), Gruber WC(3), Swanson KA(3), 
+Schmoele-Thoma B(4).
+
+Author information:
+(1)Infectious Diseases Division, Department of Medicine, Rochester General 
+Hospital and University of Rochester Medical Center, Rochester, New York.
+(2)Vaccine Research and Development, Pfizer Inc, Collegeville, Pennsylvania.
+(3)Vaccine Research and Development, Pfizer Inc, Pearl River, New York.
+(4)Vaccine Research and Development, Pfizer Pharma GmbH, Berlin, Germany.
+
+BACKGROUND: Respiratory syncytial virus (RSV) causes substantial respiratory 
+disease. Bivalent RSV prefusion F (RSVpreF) vaccine is licensed in 
+≥60-year-olds. RSVpreF was well tolerated and immunogenic in a phase 1/2 study. 
+We evaluated antibody persistence after initial vaccination and safety and 
+immunogenicity after revaccination from this study.
+METHODS: Healthy adults were randomized to receive initial vaccination and 
+revaccination 12 months later with either placebo or RSVpreF (240 µg with or 
+without aluminum hydroxide). RSV-A and RSV-B geometric mean neutralizing titers 
+(GMTs) were measured through 12 months after both vaccinations. Tolerability and 
+safety were assessed.
+RESULTS: There were 263 participants revaccinated (18-49 years old, n = 134; 
+65-85 years old, n = 129). Among 18- to 49-year-olds and 65- to 85-year-olds, 
+geometric mean fold rises (GMFRs) for both RSV subgroups (RSV-A, RSV-B) 1 month 
+after initial RSVpreF vaccination were 13.3 to 20.4 and 8.9 to 15.5, 
+respectively, as compared with levels before initial vaccination; corresponding 
+GMFRs 12 months after initial vaccination were 4.1 to 5.0 and 2.6 to 4.1. GMFRs 
+1 month after revaccination vs levels before revaccination were 1.4 to 2.3 and 
+1.4 to 2.2 for 18- to 49-year-olds and 65- to 85-year-olds. Peak GMTs after 
+revaccination were lower than those after initial vaccination. GMTs 12 months 
+after initial vaccination and revaccination were similar, with GMFRs ranging 
+from 0.7 to 1.6. No safety signals occurred.
+CONCLUSIONS: RSVpreF revaccination was immunogenic and well tolerated among 
+adults. Clinical Trials Registration. NCT03529773 (ClinicalTrials.gov).
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of 
+Infectious Diseases Society of America.
+
+DOI: 10.1093/infdis/jiae185
+PMID: 38606958 [Indexed for MEDLINE]
+
+Conflict of interest statement: Potential conflicts of interest. E. E. W. 
+reports receiving grants from Pfizer, Merck Sharp and Dohme, and Janssen and 
+serving in unpaid consultancy roles for Janssen, Merck, Moderna, and Pfizer. A. 
+R. F. reports receiving grant funding from Pfizer Inc, Merck, Janssen, BioFire 
+Diagnostics, Vax Co, and CyanVac and consulting fees from Gilead, 
+GlaxoSmithKline, Icosavax, and Novavax. A. M. Z., Q. J., A. G., D. R., E. G., D. 
+C., K. U. J., W. C. G., K. A. S., and B. S.-T. are current or former employees 
+of Pfizer Inc and may hold stock or stock options. All authors have submitted 
+the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that 
+the editors consider relevant to the content of the manuscript have been 
+disclosed.

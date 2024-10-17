@@ -1,0 +1,68 @@
+Titel: The value of using COVID-19 antibody tests as a potential approach to prioritize vaccination delivery.
+Autoren: Alrabadi N, Obeidat H, Haddad R, Alyassin N, Alzoubi KH, Obeidat O, Shteiwi SM, Al-Rabadi D, Al-Faouri I
+Veröffentlichungsdatum: 2024
+
+Abstract:
+1. PLoS One. 2024 Oct 16;19(10):e0311881. doi: 10.1371/journal.pone.0311881. 
+eCollection 2024.
+
+The value of using COVID-19 antibody tests as a potential approach to prioritize 
+vaccination delivery.
+
+Alrabadi N(1), Obeidat H(2), Haddad R(3), Alyassin N(1), Alzoubi KH(4)(5), 
+Obeidat O(1), Shteiwi SM(6), Al-Rabadi D(7), Al-Faouri I(7).
+
+Author information:
+(1)Department of Pharmacology, Faculty of Medicine, Jordan University of Science 
+and Technology, Irbid, Jordan.
+(2)Department of Medical Laboratory Sciences, Faculty of Applied Medical 
+Sciences, Jordan University of Science and Technology, Irbid, Jordan.
+(3)Department of Pharmaceutical Sciences, Faculty of Pharmacy, Jadara 
+University, Irbid, Jordan.
+(4)Department of Pharmacy Practice and Pharmacotherapeutics, University of 
+Sharjah, Sharjah, United Arab Emirates.
+(5)Department of Clinical Pharmacy, Faculty of Pharmacy, Jordan University of 
+Science and Technology, Irbid, Jordan.
+(6)Faculty of Medicine, The University of Jordan, Amman, Jordan.
+(7)Department of Community and Mental Health Nursing, Faculty of Nursing, Jordan 
+University of Science and Technology, Irbid, Jordan.
+
+BACKGROUND: The highly contagious novel COVID-19 virus has demonstrated a great 
+challenge for healthcare workers (HCWs) worldwide. One of these challenges is 
+the availability of vaccines in some countries or societies, especially in the 
+early stages of the pandemic.
+OBJECTIVES: This study aims to determine the level of natural immunity against 
+COVID-19 infection among HCWs exposed to COVID-19 at the early stages of the 
+pandemic and build a model to determine the groups that can benefit more from 
+the scarce vaccination resources.
+METHODS: This study took place between January and March 2021, after the first 
+waves of the COVID-19 pandemic, before spreading the variants of concern, such 
+as the UK variant (Alpha B.1.1.7), and before starting the vaccine campaigns. 
+This cross-sectional study collected serum samples from 251 vulnerable HCWs. The 
+samples were tested for IgG antibodies against COVID-19 using commercial kits. 
+The demographics and clinical characteristics of the participants were recorded 
+using face-to-face interviews.
+RESULTS: COVID-19 IgG antibodies were detected in more than 40% of HCWs before 
+vaccination. Those HCWs should have less priority than those without COVID-19 
+IgG. The seroprevalence of COVID-19 was higher in male HCWs and among nurses. 
+There was no association between the participants' immunity and smoking status 
+or different blood groups. Most HCWs reported being infected with the virus 
+during the first wave, mainly at the end of 2020. A limited number of HCWs 
+reported infections between January 2021 and March 2021. All HCWs eventually 
+received the COVID-19 vaccine, ignoring being previously infected.
+CONCLUSION: The reported results emphasize the value of using immunity tests to 
+prioritize the groups that may benefit the most from the limited vaccines, 
+especially in developing countries with scarce resources where those with 
+COVID-19 IgG antibodies should have less priority for the COVID-19 vaccine. The 
+present results indicate that up to 40% of the delivered vaccines to HCWs who 
+had COVID-19 antibodies could be prioritized more wisely in future pandemics.
+
+Copyright: © 2024 Alrabadi et al. This is an open access article distributed 
+under the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pone.0311881
+PMID: 39413075 [Indexed for MEDLINE]
+
+Conflict of interest statement: NO authors have competing interests.

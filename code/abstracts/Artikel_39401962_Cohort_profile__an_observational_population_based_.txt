@@ -1,0 +1,60 @@
+Titel: Cohort profile: an observational population-based cohort study on COVID-19 vaccine effectiveness in the Netherlands - the VAccine Study COVID-19 (VASCO).
+Autoren: Huiberts AJ, Hoeve CE, Kooijman MN, de Melker HE, Hahné SJ, Grobbee DE, van Binnendijk R, den Hartog G, van de Wijgert JH, van den Hof S, Knol MJ
+Veröffentlichungsdatum: 2024 Oct 14
+
+Abstract:
+1. BMJ Open. 2024 Oct 14;14(10):e085388. doi: 10.1136/bmjopen-2024-085388.
+
+Cohort profile: an observational population-based cohort study on COVID-19 
+vaccine effectiveness in the Netherlands - the VAccine Study COVID-19 (VASCO).
+
+Huiberts AJ(1), Hoeve CE(1), Kooijman MN(1), de Melker HE(1), Hahné SJ(1), 
+Grobbee DE(2), van Binnendijk R(1), den Hartog G(1), van de Wijgert JH(1)(2), 
+van den Hof S(1), Knol MJ(3).
+
+Author information:
+(1)Centre for Infectious Disease Control, National Institute for Public Health 
+and the Environment (RIVM), Bilthoven, The Netherlands.
+(2)Julius Center for Health Sciences and Primary Care, University Medical Center 
+Utrecht (UMCU), Utrecht, The Netherlands.
+(3)Centre for Infectious Disease Control, National Institute for Public Health 
+and the Environment (RIVM), Bilthoven, The Netherlands mirjam.knol@rivm.nl.
+
+PURPOSE: VAccine Study COVID-19 (VASCO) is a cohort study with a 5-year 
+follow-up that was initiated when COVID-19 vaccination was introduced in the 
+Netherlands. The primary objective is to estimate real-world vaccine 
+effectiveness (VE) of COVID-19 vaccines against SARS-CoV-2 infection in the 
+Netherlands, overall and in four subpopulations defined by age and medical risk.
+PARTICIPANTS: The cohort consists of 45 547 community-dwelling participants aged 
+18-85 years who were included irrespective of their COVID-19 vaccination status 
+or intention to get vaccinated. A medical risk condition is present in 4289 
+(19.8%) of 21 679 individuals aged 18-59 years, and in 9135 (38.3%) of 23 821 
+individuals aged 60-85 years. After 1 year of follow-up, 5502 participants had 
+dropped out of the study. At inclusion and several times after inclusion, 
+participants are asked to take a self-collected fingerprick blood sample in 
+which nucleoprotein and spike protein receptor binding domain-specific antibody 
+concentrations are assessed. Participants are also asked to complete monthly 
+digital questionnaires in the first year, and 3 monthly in years 2-5, including 
+questions on sociodemographic factors, health status, COVID-19 vaccination, 
+SARS-CoV-2-related symptoms and testing results, and behavioural responses to 
+COVID-19 measures.
+FINDINGS TO DATE: VASCO data have been used to describe VE against SARS-CoV-2 
+infection of primary vaccination, first and second booster and bivalent 
+boosters, the impact of hybrid immunity on SARS-CoV-2 infection and VE against 
+infectiousness. Furthermore, data were used to describe antibody response 
+following vaccination and breakthrough infections and to investigate the 
+relation between antibody response and reactogenicity.
+FUTURE PLANS: VASCO will be able to contribute to policy decision-making 
+regarding future COVID-19 vaccination. Furthermore, VASCO provides an 
+infrastructure to conduct further studies and to respond to changes in 
+vaccination campaigns and testing policy, and new virus variants.
+TRIAL REGISTRATION NUMBER: NL9279.
+
+© Author(s) (or their employer(s)) 2024. Re-use permitted under CC BY-NC. No 
+commercial re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/bmjopen-2024-085388
+PMCID: PMC11474871
+PMID: 39401962 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.

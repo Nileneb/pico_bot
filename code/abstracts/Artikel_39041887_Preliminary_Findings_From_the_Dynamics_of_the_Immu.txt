@@ -1,0 +1,85 @@
+Titel: Preliminary Findings From the Dynamics of the Immune Responses to Repeat Influenza Vaccination Exposures (DRIVE I) Study: A Randomized Controlled Trial.
+Autoren: Cowling BJ, Wong SS, Santos JJS, Touyon L, Ort JT, Ye N, Kwok NKM, Ho F, Cheng SMS, Ip DKM, Peiris M, Webby RJ, Wilson PC, Valkenburg SA, Tsang JS, Leung NHL, Hensley SE, Cobey S
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. Clin Infect Dis. 2024 Oct 15;79(4):901-909. doi: 10.1093/cid/ciae380.
+
+Preliminary Findings From the Dynamics of the Immune Responses to Repeat 
+Influenza Vaccination Exposures (DRIVE I) Study: A Randomized Controlled Trial.
+
+Cowling BJ(1)(2), Wong SS(1)(3), Santos JJS(4), Touyon L(1)(3), Ort JT(4), Ye 
+N(4), Kwok NKM(1), Ho F(1), Cheng SMS(1), Ip DKM(1), Peiris M(1), Webby RJ(5), 
+Wilson PC(6), Valkenburg SA(3)(7), Tsang JS(8), Leung NHL(1)(2), Hensley SE(4), 
+Cobey S(9).
+
+Author information:
+(1)WHO Collaborating Centre for Infectious Disease Epidemiology and Control, 
+School of Public Health, Li Ka Shing Faculty of Medicine, The University of Hong 
+Kong, Hong Kong Special Administrative Region, China.
+(2)Laboratory of Data Discovery for Health Limited, Hong Kong Science and 
+Technology Park, New Territories, Hong Kong Special Administrative Region, 
+China.
+(3)HKU-Pasteur Research Pole, Li Ka Shing Faculty of Medicine, The University of 
+Hong Kong, Hong Kong Special Administrative Region, China.
+(4)Department of Microbiology, Perelman School of Medicine, University of 
+Pennsylvania, Philadelphia, Pennsylvania, USA.
+(5)Department of Infectious Diseases, St Jude Children's Research Hospital, 
+Memphis, Tennessee, USA.
+(6)Gale and Ira Drukier Institute for Children's Health, Weill Cornell Medicine, 
+New York, New York, USA.
+(7)Department of Microbiology and Immunology, Peter Doherty Institute for 
+Infection and Immunity, University of Melbourne, Melbourne, Victoria, Australia.
+(8)Yale Center for Systems and Engineering Immunology and Department of 
+Immunobiology, Yale University School of Medicine, New Haven, Connecticut, USA.
+(9)Department of Ecology and Evolution, University of Chicago, Chicago, 
+Illinois, USA.
+
+Update of
+    medRxiv. 2024 May 17:2024.05.16.24307455. doi: 10.1101/2024.05.16.24307455.
+
+BACKGROUND: Studies have reported that repeated annual vaccination may influence 
+influenza vaccination effectiveness in the current season.
+METHODS: We established a 5-year randomized placebo-controlled trial of repeated 
+influenza vaccination (Flublok; Sanofi Pasteur) in adults 18-45 years of age. In 
+the first 2 years, participants were randomized to receive vaccine or saline 
+placebo as follows: placebo-placebo (P-P), placebo-vaccine (P-V), or 
+vaccine-vaccine (V-V). Serum samples were collected each year just before 
+vaccination and after 30 and 182 days. A subset of serum samples collected at 5 
+time points from 95 participants were tested for antibodies against vaccine 
+strains.
+RESULTS: From 23 October 2020 through 11 March 2021 we enrolled and randomized 
+447 adults. Among vaccinated individuals, antibody titers increased between days 
+0 and 30 against each of the vaccine strains, with smaller increases for repeat 
+vaccinees who on average had higher prevaccination titers in year 2. There were 
+statistically significant differences in the proportions of participants 
+achieving ≥4-fold rises in antibody titer for the repeat vaccinees for influenza 
+A(H1N1), B/Victoria, and B/Yamagata, but not for A(H3N2). Among participants who 
+received vaccination in year 2, there were no significant differences between 
+the P-V and V-V groups in geometric mean titers at day 30 or the proportions of 
+participants with antibody titers ≥40 at day 30 for any of the vaccine strains.
+CONCLUSIONS: In the first 2 years, during which influenza did not circulate, 
+repeat and first-time vaccinees had similar postvaccination geometric mean 
+titers to all 4 vaccine strains, indicative of similar levels of clinical 
+protection. Clinical Trials Registration. NCT04576377.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of 
+Infectious Diseases Society of America. All rights reserved. For commercial 
+re-use, please contact reprints@oup.com for reprints and translation rights for 
+reprints. All other permissions can be obtained through our RightsLink service 
+via the Permissions link on the article page on our site—for further information 
+please contact journals.permissions@oup.com.
+
+DOI: 10.1093/cid/ciae380
+PMCID: PMC11478574
+PMID: 39041887 [Indexed for MEDLINE]
+
+Conflict of interest statement: Potential conflicts of interest . B. J. C. 
+consults for AstraZeneca, Fosun Pharma, GlaxoSmithKline, Haleon, Moderna, 
+Novavax, Pfizer, Roche, and Sanofi Pasteur. S. E. H. is a coinventor on patents 
+that describe the use of nucleoside-modified messenger RNA as a vaccine 
+platform; S. E. H. also reports receiving consulting fees from Sanofi, Pfizer, 
+Lumen, Novavax, and Merck. S. C. has consulted for Seqirus. All other authors 
+report no potential conflicts. All authors have submitted the ICMJE Form for 
+Disclosure of Potential Conflicts of Interest. Conflicts that the editors 
+consider relevant to the content of the manuscript have been disclosed.

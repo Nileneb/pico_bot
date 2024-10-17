@@ -1,0 +1,64 @@
+Titel: Knowledge, attitude and perception of Italian dental students toward HPV-related oropharyngeal cancer and vaccination: a cross-sectional study.
+Autoren: Musella G, Liguori S, Cantile T, Adamo D, Coppola N, Canfora F, Blasi A, Mignogna M, Amato M, Caponio VCA, Mignogna MD, Leuci S
+Veröffentlichungsdatum: 2024 Oct 14
+
+Abstract:
+1. BMC Oral Health. 2024 Oct 14;24(1):1213. doi: 10.1186/s12903-024-04998-w.
+
+Knowledge, attitude and perception of Italian dental students toward HPV-related 
+oropharyngeal cancer and vaccination: a cross-sectional study.
+
+Musella G(1)(2), Liguori S(3), Cantile T(4)(5), Adamo D(1), Coppola N(1), 
+Canfora F(1), Blasi A(6), Mignogna M(1), Amato M(4), Caponio VCA(2), Mignogna 
+MD(1), Leuci S(1).
+
+Author information:
+(1)Department of Neuroscience, Reproductive and Odontostomatological Sciences, 
+Oral Medicine Unit, University of Naples Federico II, Naples, Italy.
+(2)Department of Clinical and Experimental Medicine, University of Foggia, 
+71122, Foggia, Italy.
+(3)Department of Neuroscience, Reproductive and Odontostomatological Sciences, 
+Oral Medicine Unit, University of Naples Federico II, Naples, Italy. 
+simone.liguori@unina.it.
+(4)Department of Neuroscience, Reproductive and Odontostomatological Sciences, 
+Pediatric Dentistry, University of Naples Federico II, Naples, Italy.
+(5)Department of Medicine, Surgery and Dentistry Scuola Medica Salernitana, 
+University of Salerno, Baronissi, Italy.
+(6)Department of Neuroscience, Reproductive and Odontostomatological Sciences, 
+Periodontology Unit, University of Naples Federico II, Naples, Italy.
+
+BACKGROUND: Human papillomavirus (HPV) infection is a leading cause of 
+oropharyngeal squamous cell cancer (OPSCC). This study aimed to carry out a 
+Knowledge, Attitude and Perception survey on HPV infection, HPV+ OPSCC, and HPV 
+vaccination among Italian dental students.
+METHODS: Through an online self-administered questionnaire consisting of 82 
+questions, data on dental students' sociodemographic characteristics, knowledge, 
+attitudes and perceptions concerning HPV+ OPSCC, infection and vaccination were 
+acquired. A statistical analysis, based on their year of attendance (early 
+career, from 1st to 3rd year vs. late career, from 4th to 6th year) was also 
+conducted.
+RESULTS: A total of 412 dental students completed the questionnaire. Knowledge 
+of HPV+ OPSCC was reported by 61% of early-career students and 73% of 
+late-career students, with high awareness of the HPV-OPSCC correlation in both 
+groups (85% vs. 89%, respectively). The percentage of correct responses 
+regarding HPV infection knowledge was 61% for early-career and 73% for 
+late-career students, while vaccine knowledge was 70% and 78%, respectively. 
+Over 90% of students acknowledged the dentist's role in educating patients about 
+HPV and OPSCC, and attitudes toward discussing HPV and vaccination were 
+positive. However, only about half would recommend the vaccine to either gender. 
+Statistically significant differences were found between early- and late-career 
+groups across all knowledge sections (p < 0.001), while no significant 
+differences emerged for perception (p = 0.076) or attitude (p = 0.147).
+CONCLUSIONS: The study reveals encouraging results but highlights significant 
+gaps in dental students' knowledge, perceptions, and attitudes toward 
+HPV+ OPSCC, infection, and vaccination. Addressing these gaps through targeted 
+education and training in dental curricula could improve HPV prevention 
+awareness and patient education, ultimately enhancing public health outcomes.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12903-024-04998-w
+PMCID: PMC11472497
+PMID: 39402502 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

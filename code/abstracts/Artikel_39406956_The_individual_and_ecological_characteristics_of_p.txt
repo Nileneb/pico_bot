@@ -1,0 +1,42 @@
+Titel: The individual and ecological characteristics of parental COVID-19 vaccination decisions.
+Autoren: Hörnig L, Schaffner S, Schmitz H
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. Sci Rep. 2024 Oct 15;14(1):24194. doi: 10.1038/s41598-024-74963-8.
+
+The individual and ecological characteristics of parental COVID-19 vaccination 
+decisions.
+
+Hörnig L(1)(2), Schaffner S(3), Schmitz H(3)(4)(5).
+
+Author information:
+(1)RWI - Leibniz-Institute for Economic Research, Essen, Germany. 
+lukas.hoernig@rwi-essen.de.
+(2)Ruhr-University Bochum, Bochum, Germany. lukas.hoernig@rwi-essen.de.
+(3)RWI - Leibniz-Institute for Economic Research, Essen, Germany.
+(4)Paderborn University, Paderborn, Germany.
+(5)Leibniz Science Campus Ruhr, Essen, Germany.
+
+Vaccination is a highly effective method to prevent the spread of COVID-19 and 
+mitigate severe disease. In Germany, adult vaccination rates are relatively high 
+at 85.5%, but rates are significantly lower for adolescents (69.6%) and children 
+(20.0%). This discrepancy indicates that not all vaccinated parents choose to 
+vaccinate their children. Analyzing data from a January 2022 online survey of 
+1,819 parents with children and adolescents, we explore the socio-economic 
+factors influencing parents' willingness to vaccinate themselves and their 
+children. Our results show that individuals who vote for either side of the 
+political extremes are less likely to vaccinate their children. This pattern is 
+particularly strong for voters on the far right. In addition, we find that 
+better educated parents are more likely to vaccinate both themselves and their 
+children. Parents who vaccinate both themselves and their children demonstrate 
+greater confidence in the vaccine's effectiveness, while those who vaccinate 
+only themselves are often motivated by a desire to regain personal freedoms. 
+These insights highlight the need for targeted public health strategies to 
+address specific concerns and improve vaccination rates among children and 
+adolescents.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41598-024-74963-8
+PMID: 39406956 [Indexed for MEDLINE]

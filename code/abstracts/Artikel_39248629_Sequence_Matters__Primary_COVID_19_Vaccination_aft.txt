@@ -1,0 +1,53 @@
+Titel: Sequence Matters: Primary COVID-19 Vaccination after Infection Elicits Similar Anti-spike Antibody Levels, but Stronger Antibody Dependent Cell-mediated Cytotoxicity than Breakthrough Infection.
+Autoren: Holder KA, Ings DP, Fifield KE, Barnes DA, Barnable KA, Harnum DOA, Russell RS, Grant MD
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. J Immunol. 2024 Oct 15;213(8):1105-1114. doi: 10.4049/jimmunol.2400250.
+
+Sequence Matters: Primary COVID-19 Vaccination after Infection Elicits Similar 
+Anti-spike Antibody Levels, but Stronger Antibody Dependent Cell-mediated 
+Cytotoxicity than Breakthrough Infection.
+
+Holder KA(1), Ings DP(1), Fifield KE(1), Barnes DA(1), Barnable KA(1), Harnum 
+DOA(2), Russell RS(1), Grant MD(1).
+
+Author information:
+(1)Immunology and Infectious Diseases Program, Division of BioMedical Sciences, 
+Faculty of Medicine, Memorial University of Newfoundland, St. John's, NL, 
+Canada.
+(2)Newfoundland and Labrador Health Services, St. John's, NL, Canada.
+
+Infection before primary vaccination (herein termed "hybrid immunity") engenders 
+robust humoral immunity and broad Ab-dependent cell-mediated cytotoxicity (ADCC) 
+across SARS-CoV-2 variants. We measured and compared plasma IgG and IgA against 
+Wuhan-Hu-1 and Omicron (B.1.1.529) full-length spike (FLS) and receptor binding 
+domain after three mRNA vaccines encoding Wuhan-Hu-1 spike (S) and after Omicron 
+breakthrough infection. We also measured IgG binding to Wuhan-Hu-1 and Omicron 
+S1, Wuhan-Hu-1 S2 and Wuhan-Hu-1 and Omicron cell-based S. We compared ADCC 
+using human embryonic lung fibroblast (MRC-5) cells expressing Wuhan-Hu-1 or 
+Omicron S. The effect of Omicron breakthrough infection on IgG anti-Wuhan-Hu-1 
+and Omicron FLS avidity was also considered. Despite Omicron breakthrough 
+infection increasing IgG and IgA against FLS and receptor binding domain to 
+levels similar to those seen with hybrid immunity, there was no boost to ADCC. 
+Preferential recognition of Wuhan-Hu-1 persisted following Omicron breakthrough 
+infection, which increased IgG avidity against Wuhan-Hu-1 FLS. Despite similar 
+total anti-FLS IgG levels following breakthrough infection, 4-fold higher plasma 
+concentrations were required to elicit ADCC comparable to that elicited by 
+hybrid immunity. The greater capacity for hybrid immunity to elicit ADCC was 
+associated with a differential IgG reactivity pattern against S1, S2, and linear 
+determinants throughout FLS. Immunity against SARS-CoV-2 following Omicron 
+breakthrough infection manifests significantly less ADCC capacity than hybrid 
+immunity. Thus, the sequence of antigenic exposure by infection versus 
+vaccination and other factors such as severity of infection affect antiviral 
+functions of humoral immunity in the absence of overt quantitative differences 
+in the humoral response.
+
+Copyright © 2024 by The American Association of Immunologists, Inc.
+
+DOI: 10.4049/jimmunol.2400250
+PMCID: PMC11457723
+PMID: 39248629 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no financial conflicts of 
+interest.

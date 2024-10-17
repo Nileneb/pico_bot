@@ -1,0 +1,70 @@
+Titel: School-based healthy eating interventions for adolescents aged 10-19 years: an umbrella review.
+Autoren: Samad N, Bearne L, Noor FM, Akter F, Parmar D
+Veröffentlichungsdatum: 2024 Oct 14
+
+Abstract:
+1. Int J Behav Nutr Phys Act. 2024 Oct 14;21(1):117. doi: 
+10.1186/s12966-024-01668-6.
+
+School-based healthy eating interventions for adolescents aged 10-19 years: an 
+umbrella review.
+
+Samad N(1), Bearne L(2)(3), Noor FM(4), Akter F(4), Parmar D(2).
+
+Author information:
+(1)Department of Population Health Sciences, School of Life Course and 
+Population Sciences, King's College London, London, UK. 
+Nandeeta.samad@kcl.ac.uk.
+(2)Department of Population Health Sciences, School of Life Course and 
+Population Sciences, King's College London, London, UK.
+(3)Population Health Research Institute, St George's, University of London, 
+London, UK.
+(4)James P Grant School of Public Health, BRAC University, Dhaka, Bangladesh.
+
+BACKGROUND: The benefits of healthy eating are well known, yet adolescent diet 
+is often poor. School based interventions offer a promising option to promote 
+healthy eating, however, evidence is unclear.
+AIM: This umbrella review synthesised the current evidence on school-based 
+interventions for healthy eating in adolescents (10-19 years old).
+METHODS: Using Joanna Briggs Institute (JBI) umbrella review guidelines, a 
+systematic search was conducted on 11 electronic databases (PubMed, CINHAL, 
+EMBASE, Science Direct, PsycINFO, MEDLINE, Scopus, ERIC, Web of Science, 
+Cochrane Register of Systemic Review and JBI Evidence Synthesis) to identify 
+reviews published between January 2000 and December 2023. Methodological quality 
+was assessed using JBI critical appraisal tool. A narrative synthesis was 
+conducted informed by the World Health Organisation's Health Promoting School 
+(HPS) framework that categorises school-based interventions into three 
+components i.e., health education, school environment changes, and family and 
+community involvement.
+RESULTS: Seventeen reviews were identified (including 347 unique primary 
+studies) that were published between 2008 and 2023. 87% of the reviews were 
+based on interventions in high- income countries, limiting applicability to low- 
+and middle-income countries. Fourteen reviews were rated as high, two as 
+moderate, and one was rated as low methodological quality. Evidence from 71% of 
+the reviews (n = 14 reviews, 13 = high methodological quality) found that 
+multi-component interventions (i.e., interventions incorporating more than two 
+components of the HPS framework) improved adolescents' knowledge and behaviour 
+concerning healthy eating. At the individual level, tech-driven healthy eating 
+curricula effectively improved eating behaviours of adolescents. These 
+individual-level interventions proved to be more effective and sustainable when 
+supported by system-level changes, such as modifying school environments 
+including increased availability of healthy foods and involving parents to 
+promote healthy eating for adolescents. However, limited evidence from only 
+three reviews suggests mixed feasibility for technology-based interventions and 
+lower feasibility for multi-component interventions. The lack of information on 
+stakeholder involvement in intervention design is another critical evidence gap.
+CONCLUSION: School-based multi-component healthy eating interventions that 
+combine individual-level interventions with system-level changes are effective 
+in promoting healthy eating behaviours among adolescents. Future reviews should 
+assess the effectiveness of participatory approaches in intervention design, 
+feasibility and scale-up studies, and analysing evidence from low- and 
+middle-income countries.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12966-024-01668-6
+PMCID: PMC11472496
+PMID: 39402562 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.

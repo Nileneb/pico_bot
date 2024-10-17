@@ -1,0 +1,43 @@
+Titel: Smoking and serological response to influenza vaccine.
+Autoren: Choi WS, Nowalk MP, Moehling Geffel K, Susick M, Saul S, Lin CJ, Ross TM, Zimmerman RK
+Veröffentlichungsdatum: 2024 Dec 31
+
+Abstract:
+1. Hum Vaccin Immunother. 2024 Dec 31;20(1):2404752. doi: 
+10.1080/21645515.2024.2404752. Epub 2024 Oct 14.
+
+Smoking and serological response to influenza vaccine.
+
+Choi WS(1), Nowalk MP(2), Moehling Geffel K(2), Susick M(2), Saul S(2), Lin 
+CJ(2), Ross TM(3)(4), Zimmerman RK(2).
+
+Author information:
+(1)Division of Infectious Diseases, Department of Internal Medicine, Korea 
+University College of Medicine, Seoul, Republic of Korea.
+(2)Department of Family Medicine, University of Pittsburgh School of Medicine, 
+Pittsburgh, PA, USA.
+(3)Center for Vaccines and Immunology, University of Georgia, Athens, GA, USA.
+(4)College of Veterinary Medicine, University of Georgia, Athens, GA, USA.
+
+Cigarette smoking confers additional risk from influenza. This study assessed 
+the effect of smoking on humoral immune response to influenza vaccine. Adults 
+≥50 y of age were enrolled during the 2011-2016 influenza vaccination seasons in 
+an observational prospective study. Non-fasting whole blood samples for 
+hemagglutination inhibition (HAI) assays were obtained from participants at pre- 
+and 28 d post-clinically administered, trivalent influenza vaccination. Among 
+273 participants, 133 subjects self-reported as never smokers, 87 as ex-smokers, 
+and 53 as current smokers. Postvaccination geometric mean HAI titers were 
+significantly higher among smokers for A/H1N1 (p = .031) and A/H3N2 (p = .001). 
+Relative to never smokers, smoking was independently related to seroconversion 
+to A/H1N1, A/H3N2 and B. The adjusted odd ratios (ORs) were 5.2 [95% confidence 
+interval (CI), 2.3, 11.5] for seroconversion to A/H1N1, 5.4 (95% CI, 2.4, 12.1) 
+for A/H3N2, and 2.7 (95% CI, 1.3, 5.7) for B. Smoking was also independently 
+related to seroprotection to A/H1N1, A/H3N2 and B. The ORs were 3.6 (95% CI, 
+1.6, 8.08) for seroprotection to A/H1N1 in smokers, 2.7 (95% CI, 1.14, 6.5) for 
+A/H3N2, and 2.5 (95% CI, 1.1, 5.7) for B. Although the mechanism is unclear, 
+smokers showed a better immune response to influenza vaccination than never 
+smokers and ex-smokers. The results can be used to emphasize the value of 
+influenza vaccination for smokers.
+
+DOI: 10.1080/21645515.2024.2404752
+PMID: 39400298 [Indexed for MEDLINE]

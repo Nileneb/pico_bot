@@ -1,0 +1,42 @@
+Titel: Safety of an inactivated enterovirus 71 vaccine administered concurrently with other vaccines among infants aged 6-11 months: An observational study using active surveillance.
+Autoren: Wu L, Zhang Y, Liu J, Huang Z, Shao H, Ma X, Sun X
+Veröffentlichungsdatum: 2024 Dec 31
+
+Abstract:
+1. Hum Vaccin Immunother. 2024 Dec 31;20(1):2412388. doi: 
+10.1080/21645515.2024.2412388. Epub 2024 Oct 15.
+
+Safety of an inactivated enterovirus 71 vaccine administered concurrently with 
+other vaccines among infants aged 6-11 months: An observational study using 
+active surveillance.
+
+Wu L(1), Zhang Y(1), Liu J(1), Huang Z(1), Shao H(1), Ma X(1), Sun X(1).
+
+Author information:
+(1)Department of Immunization Program, Shanghai Municipal Centers for Disease 
+Prevention and Control, Shanghai, China.
+
+Vaccine co-administration can efficiently increase vaccination uptake and timely 
+immunization. This study aimed to evaluate the safety of the enterovirus 71 
+(EV71) vaccine administered alone or concurrently with other vaccines in infants 
+6-11 months. A total of 3,769 EV71 vaccine doses were administered to children 
+in the active surveillance area, of which 1,909 were administered concurrently 
+with other vaccines and 1,860 doses were administered alone. Active surveillance 
+was conducted to observe adverse events (AEs) within 0-7 and ≥8 days after 
+vaccination and to determine the incidence of reported AEs. The overall AE 
+incidence was 2.12% (95% CI: 1.66%-2.58%), with 1.56% (95% CI:1.00%-2.12%) for 
+the EV71 vaccine alone and 2.67% (95% CI: 1.95%-3.40%) for simultaneous 
+administration of the EV71 vaccine and other vaccines (x2 = 5.612, p = .018). 
+The solicited local AE incidence was 1.00% (95% CI: 0.55%-1.44%) in the EV71 
+vaccine co-administration group and 0.59% (95% CI: 0.24%-0.94%) in the EV71 
+vaccine alone group (x2 = 1.946, p = .018). The solicited systemic AE incidence 
+was 1.68% (95% CI: 1.10%-2.25%) and 0.86% (95% CI: 0.44%-1.28%) in the EV71 
+vaccine co-administered and EV71 vaccine alone groups, respectively (x2 = 4.990, 
+p = .025). No serious vaccine-related AEs were reported. Fever was the most 
+common AE; no difference was observed in the incidence rate of fever between the 
+two groups (x2 = 3.467, p = .063). Overall, AE incidence following EV71 
+vaccination alone or concurrently with other vaccines was acceptable; concurrent 
+vaccination did not increase AE risk or severity.
+
+DOI: 10.1080/21645515.2024.2412388
+PMID: 39402977 [Indexed for MEDLINE]

@@ -1,0 +1,60 @@
+Titel: Cognitive flexibility predicts attitudes towards vaccination: evidence from a New Zealand sample.
+Autoren: Gomes-Ng S, Wood JK, Cowie S
+Veröffentlichungsdatum: 2024 Oct 14
+
+Abstract:
+1. BMC Psychol. 2024 Oct 14;12(1):550. doi: 10.1186/s40359-024-02048-2.
+
+Cognitive flexibility predicts attitudes towards vaccination: evidence from a 
+New Zealand sample.
+
+Gomes-Ng S(1)(2), Wood JK(3), Cowie S(4).
+
+Author information:
+(1)Department of Psychology, Auckland University of Technology, Auckland, New 
+Zealand. stef.gomes-ng@aut.ac.nz.
+(2)School of Psychology, The University of Auckland, Auckland, New Zealand. 
+stef.gomes-ng@aut.ac.nz.
+(3)Department of Psychology, Auckland University of Technology, Auckland, New 
+Zealand.
+(4)School of Psychology, The University of Auckland, Auckland, New Zealand.
+
+BACKGROUND: Vaccine hesitancy (the reluctance or refusal to vaccinate) poses a 
+significant threat to public health worldwide, with declining vaccination 
+coverage resulting in the resurgence of vaccine-preventable diseases (e.g., 
+measles) in recent years. Despite efforts to combat vaccine hesitancy through 
+information-based campaigns and other interventions, vaccine-hesitant attitudes 
+persist. Given that such interventions likely expose individuals to information 
+that conflicts with their own viewpoints about vaccination, cognitive 
+flexibility - the ability to adapt one's thoughts, attitudes, beliefs, or 
+behavior in response to changing information or environmental demands - may play 
+a role in vaccine hesitancy.
+METHODS: The current study investigated the relationship between cognitive 
+flexibility and attitudes towards vaccination in a sample of New Zealand 
+residents (N = 601). Cognitive flexibility was measured using perseverative 
+responses in the Wisconsin Card-Sorting Task, and vaccination attitudes were 
+measured using an adapted version of the Multidimensional Vaccine Hesitancy 
+Scale (MVHS). Linear regression was used with MVHS scores as the dependent 
+variable and cognitive flexibility and sociodemographic variables (age, gender, 
+ethnicity, education level, religion) as predictors.
+RESULTS: Cognitive flexibility predicted personal barriers to vaccination 
+(e.g.," vaccines go against my personal beliefs"), with participants with lower 
+levels of cognitive flexibility reporting greater personal barriers. In 
+contrast, there was no significant relationship between cognitive flexibility 
+and external barriers to vaccination (e.g., "vaccines cost too much"). 
+Additionally, religious participants reported overall higher levels of vaccine 
+hesitancy than non-religious participants.
+CONCLUSIONS: These findings join others demonstrating that individual 
+differences in cognitive style are associated with attitudes towards 
+vaccination, and tentatively suggest that interventions aiming to reduce vaccine 
+hesitancy may be more effective if combined with techniques to increase 
+cognitive flexibility. To be sure, future work is needed to test the causal 
+relationship between cognitive flexibility and attitudes towards vaccination.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s40359-024-02048-2
+PMCID: PMC11472431
+PMID: 39402611 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

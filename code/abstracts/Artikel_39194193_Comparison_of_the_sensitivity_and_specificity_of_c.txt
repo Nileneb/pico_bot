@@ -1,0 +1,65 @@
+Titel: Comparison of the sensitivity and specificity of commercial anti-dengue virus IgG tests to identify persons eligible for dengue vaccination.
+Autoren: Medina FA, Vila F, Adams LE, Cardona J, Carrion J, Lamirande E, Acosta LN, De León-Rodríguez CM, Beltran M, Grau D, Rivera-Amill V, Balmaseda A, Harris E, Madewell ZJ, Waterman SH, Paz-Bailey G, Whitehead S, Muñoz-Jordán JL
+Veröffentlichungsdatum: 2024 Oct 16
+
+Abstract:
+1. J Clin Microbiol. 2024 Oct 16;62(10):e0059324. doi: 10.1128/jcm.00593-24. Epub
+ 2024 Aug 28.
+
+Comparison of the sensitivity and specificity of commercial anti-dengue virus 
+IgG tests to identify persons eligible for dengue vaccination.
+
+Medina FA(1), Vila F(1), Adams LE(1), Cardona J(1), Carrion J(1), Lamirande 
+E(2), Acosta LN(1), De León-Rodríguez CM(1), Beltran M(1), Grau D(1), 
+Rivera-Amill V(3), Balmaseda A(4)(5), Harris E(6), Madewell ZJ(1), Waterman 
+SH(1), Paz-Bailey G(1), Whitehead S(2), Muñoz-Jordán JL(1).
+
+Author information:
+(1)Centers for Disease Control and Prevention (CDC), San Juan, Puerto Rico, USA.
+(2)National Institutes of Health (NIH), Bethesda, Maryland, USA.
+(3)Ponce Health Sciences University/Ponce Research Institute, Ponce, Puerto 
+Rico, USA.
+(4)Laboratorio Nacional de Virología, Centro Nacional de Diagnóstico y 
+Referencia, Ministerio de Salud, Managua, Nicaragua.
+(5)Sustainable Sciences Institute, Managua, Nicaragua.
+(6)Division of Infectious Diseases and Vaccinology, School of Public Health, 
+University of California, Berkeley, California, USA.
+
+Update of
+    medRxiv. 2024 Apr 20:2024.04.19.24306097. doi: 10.1101/2024.04.19.24306097.
+
+The Advisory Committee on Immunization Practices (ACIP) recommended that dengue 
+pre-vaccination screening tests for Dengvaxia administration have at least 98% 
+specificity and 75% sensitivity. This study evaluates the performance of 
+commercial anti-DENV IgG tests to identify tests that could be used for 
+pre-vaccination screening. First, for seven tests, we evaluated sensitivity and 
+specificity in early convalescent dengue virus (DENV) infection, using 44 
+samples collected 7-30 days after symptom onset and confirmed by RT-PCR. Next, 
+for the five best-performing tests and two additional tests (with and without an 
+external test reader) that became available later, we evaluated performance to 
+detect past dengue infection among a panel of 44 specimens collected in 
+2018-2019 from healthy 9- to 16-year-old children from Puerto Rico. Finally, a 
+full-scale evaluation was done with the four best-performing tests using 400 
+specimens from the same population. We used virus focus reduction neutralization 
+test and an in-house DENV IgG ELISA as reference standards. Of seven tests, five 
+showed ≥75% sensitivity in detecting anti-DENV IgG in early convalescent 
+specimens with low cross-reactivity to the Zika virus. For the detection of 
+previous DENV infections, the tests with the highest performance were the 
+Euroimmun NS1 IgG ELISA (sensitivity 84.5%, specificity 97.1%) and CTK Dengue 
+IgG rapid test R0065C with the test reader (sensitivity 76.2% specificity 
+98.1%). There are IgG tests available that can be used to accurately classify 
+individuals with previous DENV infection as eligible for dengue vaccination to 
+support safe vaccine implementation.
+IMPORTANCE: The Advisory Committee on Immunization Practices (ACIP) has set 
+forth recommendations that dengue pre-vaccination screening tests must exhibit 
+at least 98% specificity and 75% sensitivity. Our research rigorously assesses 
+the performance of various commercial tests against these benchmarks using 
+well-characterized specimens from Puerto Rico. The findings from our study are 
+particularly relevant given FDA approval and ACIP recommendation of Sanofi 
+Pasteur's Dengvaxia vaccine, highlighting the need for accurate pre-vaccination 
+screening tools.
+
+DOI: 10.1128/jcm.00593-24
+PMID: 39194193 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.

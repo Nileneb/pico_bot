@@ -1,0 +1,42 @@
+Titel: Healthcare worker practices for HPV vaccine recommendation: A systematic review and meta-analysis.
+Autoren: Bakare D, Gobbo E, Akinsola KO, Bakare AA, Salako J, Hanson C, Herzig van Wees S, Falade A, King C
+Veröffentlichungsdatum: 2024 Dec 31
+
+Abstract:
+1. Hum Vaccin Immunother. 2024 Dec 31;20(1):2402122. doi: 
+10.1080/21645515.2024.2402122. Epub 2024 Oct 14.
+
+Healthcare worker practices for HPV vaccine recommendation: A systematic review 
+and meta-analysis.
+
+Bakare D(1), Gobbo E(2), Akinsola KO(3), Bakare AA(2)(4), Salako J(1), Hanson 
+C(2)(5)(6), Herzig van Wees S(2), Falade A(1)(3), King C(2).
+
+Author information:
+(1)Department of Paediatrics, University of Ibadan, Ibadan, Nigeria.
+(2)Department of Global Public Health, Karolinska Institute, Stockholm, Sweden.
+(3)Department of Paediatrics, University College Hospital, Ibadan, Nigeria.
+(4)Department of Community Medicine, University College Hospital, Ibadan, 
+Nigeria.
+(5)Department of Disease Control, London School of Hygiene and Tropical 
+Medicine, London, UK.
+(6)Centre of Excellence for Women and Child Health, Aga Khan University, 
+Nairobi, Kenya.
+
+Healthcare workers (HCWs) are trusted sources of information for vaccination and 
+their attitude toward vaccination is thus critical. We aimed to synthesize 
+existing literature on healthcare workers' HPV vaccine confidence and their 
+practices of recommending this vaccine. We conducted a systematic literature 
+review and meta-analysis, with the search conducted last in March 2024. For the 
+inclusion criteria, the studies needed to include healthcare worker practices or 
+behaviors on recommending the HPV vaccination. Seventy-three articles were 
+included. The proportions of HCWs recommending varied considerably by region and 
+gender of the recipient, but there was no statistically significant difference 
+in income level or pre- or post-HPV vaccine introduction into the national 
+vaccination program. The main barriers to recommending HPV vaccination were 
+concerns around safety and efficacy, cost, parental concerns, and systemic 
+barriers. The results illustrate the importance of contextually adapted 
+approaches to improving vaccine acceptance and recommendation.
+
+DOI: 10.1080/21645515.2024.2402122
+PMID: 39400296 [Indexed for MEDLINE]

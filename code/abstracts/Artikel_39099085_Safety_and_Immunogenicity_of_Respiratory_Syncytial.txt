@@ -1,0 +1,99 @@
+Titel: Safety and Immunogenicity of Respiratory Syncytial Virus Prefusion F Protein Vaccine when Co-administered with Adjuvanted Seasonal Quadrivalent Influenza Vaccine in Older Adults: A Phase 3 Randomized Trial.
+Autoren: Clark R, Davies S, Labrador J, Loubet P, Natalini Martínez S, Moríñigo HM, Nicolas JF, Vera MP, Rämet M, Rebollo-Rodrigo MH, Sanz-Muñoz I, Dezutter N, Germain S, David MP, Jayadev A, Amare Hailemariam H, Kotb S, Meyer N
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. Clin Infect Dis. 2024 Oct 15;79(4):1088-1098. doi: 10.1093/cid/ciae365.
+
+Safety and Immunogenicity of Respiratory Syncytial Virus Prefusion F Protein 
+Vaccine when Co-administered with Adjuvanted Seasonal Quadrivalent Influenza 
+Vaccine in Older Adults: A Phase 3 Randomized Trial.
+
+Clark R(1), Davies S(2), Labrador J(3), Loubet P(4), Natalini Martínez S(5), 
+Moríñigo HM(6), Nicolas JF(7), Vera MP(8), Rämet M(9), Rebollo-Rodrigo MH(10), 
+Sanz-Muñoz I(11)(12), Dezutter N(13), Germain S(13), David MP(13), Jayadev 
+A(14), Amare Hailemariam H(13), Kotb S(13), Meyer N(13).
+
+Author information:
+(1)Layton Medical Centre, Blackpool, United Kingdom.
+(2)South Gloucestershire Medical Research Unit, Bristol, United Kingdom.
+(3)Research Unit, Hospital Universitario de Burgos, Burgos, Spain.
+(4)Department of Infectious and Tropical Diseases, VBIC (Bacterial Virulence and 
+Chronic Infection), INSERM, University of Montpellier, CHU Nimes, Nimes, France.
+(5)Unidad de Investigación de Vacunas, Instituto de Investigación Sanitaria HM, 
+Madrid, Spain.
+(6)Departamento de Medicina Preventiva y Salud Pública, Hospital Universitario 
+Fundación Jiménez Díaz, Madrid, Spain.
+(7)Department of Allergology of Clinical Immunology, Lyon Sud University 
+Hospital, CIRI, INSERM U1111, University Lyon1, Pierre-Bénite, France.
+(8)ABS La Roca del Vallès, Barcelona, Spain.
+(9)Finnish Vaccine Research Ltd. and Faculty of Medicine and Health Technology, 
+Tampere University, Tampere, Finland.
+(10)Servicio de Medicina Preventiva y Salud Pública, University Hospital Marqués 
+de Valdecilla, Santander, Cantabria, Spain.
+(11)National Influenza Centre, Valladolid, Spain.
+(12)Instituto de Estudios de Ciencias de la Salud de Castilla y León, Soria, 
+Spain.
+(13)GSK, Wavre, Belgium.
+(14)GSK, Bangalore, India.
+
+Comment in
+    Clin Infect Dis. 2024 Oct 15;79(4):1099-1101. doi: 10.1093/cid/ciae362.
+
+BACKGROUND: We evaluated co-administration of adjuvanted seasonal quadrivalent 
+influenza vaccine (FLU-aQIV) and respiratory syncytial virus (RSV) prefusion F 
+protein-based vaccine (RSVPreF3 OA) in ≥65-year-olds.
+METHODS: This phase 3, open-label trial randomized ≥65-year-olds to receive 
+FLU-aQIV and RSVPreF3 OA concomitantly (Co-Ad) or sequentially, 1 month apart 
+(Control). Primary objectives were to demonstrate the non-inferiority of 
+FLU-aQIV and RSVPreF3 OA co-administration versus sequential administration in 
+terms of hemagglutination inhibition (HI) titers for each FLU-aQIV strain and 
+RSV-A and RSV-B neutralization titers, 1 month post-vaccination. Reactogenicity 
+and safety were also assessed.
+RESULTS: Overall, 1045 participants were vaccinated (Co-Ad: 523; Control: 522). 
+Non-inferiority of FLU-aQIV and RSVPreF3 OA co-administration versus sequential 
+administration was demonstrated in terms of HI titers for the A/Victoria(H1N1), 
+B/Victoria, and B/Yamagata influenza strains and RSV-A neutralization titers 
+(upper limits [ULs] of 95% confidence intervals [CIs] for adjusted geometric 
+mean titer [GMT] ratios [Control/Co-Ad] ≤1.50) but not for A/Darwin(H3N2) HI 
+titers (95% CI UL = 1.53). The immune response to A/Darwin(H3N2) was further 
+assessed post-hoc using a microneutralization assay; the post-vaccination 
+adjusted GMT ratio (Control/Co-Ad) was 1.23 (95% CI: 1.06-1.42, ie, UL ≤1.50), 
+suggesting an adequate immune response to A/Darwin(H3N2) following 
+co-administration. RSV-B neutralization titers were comparable between groups 
+(95% CI UL for adjusted GMT ratio ≤1.50). Solicited adverse events were mostly 
+mild or moderate and transient; unsolicited and serious adverse event rates were 
+balanced between groups.
+CONCLUSIONS: Adjuvanted FLU-aQIV and RSVPreF3 OA had acceptable 
+reactogenicity/safety profiles when co-administered in ≥65-year-olds, without 
+clinically relevant interference with the immune responses to either vaccine.
+CLINICAL TRIALS REGISTRATION: NCT05568797.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of 
+Infectious Diseases Society of America.
+
+DOI: 10.1093/cid/ciae365
+PMCID: PMC11478588
+PMID: 39099085 [Indexed for MEDLINE]
+
+Conflict of interest statement: Potential conflicts of interest. R. C. runs RSV 
+studies at her trial site with Moderna and GSK and received NIHR funding to 
+attend the World Vaccine Congress (October 2022) as part of the UK delegation; 
+she is the Deputy Specialty Lead and the Clinical Lead for vaccine research at 
+the North West Coast Clinical Research Network. P. L. received consulting fees 
+from GSK and Pfizer, declares payments or honoraria from Janssen, GSK, Moderna, 
+AstraZeneca, Pfizer, and Sanofi, and financial support for attending meetings 
+and/or travel from AstraZeneca, Pfizer, and Sanofi. J.-F. N., M. R., and I. 
+S.-M. report grants and funding from GSK to their institutions for conducting 
+this clinical trial. N. D., S. G., M.-P. D., A. J., H. A. H., S. K., and N. M. 
+are or were employed by GSK at the time the study was designed, initiated, 
+and/or conducted. N. D., M.-P. D., H. A. H., S. K., and N. M. have stock options 
+or shares from GSK. N. D. also reports stocks from Haleon and patents on 
+vaccination against RSV (numbers 2218080.6 and 2303002.6). M.-P. D. is a 
+co-applicant on a pending patent filed by GSK. S. N. M. declares being a 
+Principal Investigator on the current trial. S. D., J. L., H. M. M., M. P. V., 
+and M. H. R. -R. have no conflicts of interest to declare. The authors declare 
+no other financial or non-financial relationships. All authors have submitted 
+the ICMJE Form for Disclosure of Potential Conflicts of Interest. Conflicts that 
+the editors consider relevant to the content of the manuscript have been 
+disclosed.

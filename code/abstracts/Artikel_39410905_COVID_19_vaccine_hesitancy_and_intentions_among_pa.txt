@@ -1,0 +1,49 @@
+Titel: COVID-19 vaccine hesitancy and intentions among parents of children with mental and behavioral disorders.
+Autoren: Khoodoruth MAS, Ouanes S, Somintac K, Gulistan S, Dehwari A, Chut-Kai Khoodoruth WN, Alamri MN, Alabdulla M, Khan YS
+Veröffentlichungsdatum: 2024 Dec 31
+
+Abstract:
+1. Hum Vaccin Immunother. 2024 Dec 31;20(1):2412385. doi: 
+10.1080/21645515.2024.2412385. Epub 2024 Oct 16.
+
+COVID-19 vaccine hesitancy and intentions among parents of children with mental 
+and behavioral disorders.
+
+Khoodoruth MAS(1)(2), Ouanes S(3)(4), Somintac K(1), Gulistan S(1), Dehwari 
+A(1), Chut-Kai Khoodoruth WN(5), Alamri MN(6), Alabdulla M(3)(7), Khan YS(1)(7).
+
+Author information:
+(1)Child and Adolescent Mental Health Service, Hamad Medical Corporation, Doha, 
+Qatar.
+(2)Division of Genomics and Precision Medicine, College of Health and Life 
+Sciences, Hamad Bin Khalifa University, Ar-Rayyan, Qatar.
+(3)Department of Psychiatry, Hamad Medical Corporation, Doha, Qatar.
+(4)Department of Psychiatry, MindWell, Kuwait City, Kuwait.
+(5)Centre of Disease Control and Prevention Department, Hamad Medical 
+Corporation, Doha, Qatar.
+(6)Department of Pediatrics, Hamad Medical Corporation, Doha, Qatar.
+(7)College of Medicine, Qatar University, Doha, Qatar.
+
+Parent vaccine hesitancy (PVH) remains a significant public health concern, 
+particularly emphasized during the COVID-19 pandemic. This study investigates 
+PVH among parents of children with various psychiatric and neurodevelopmental 
+conditions, such as attention deficit hyperactivity disorder (ADHD), anxiety 
+disorders, and behavioral disturbances, extending previous research focused on 
+autism spectrum disorder (ASD). We examined PVH in children aged 5-11 years with 
+psychiatric and behavioral disorders excluding ASD. A cross-sectional 
+questionnaire-based analysis was conducted in Qatar, involving 244 parents of 
+neurodiverse children and 245 parents of neurotypical children as controls. The 
+Parent Attitudes about Childhood Vaccines (PACV) survey assessed PVH. Results 
+indicated a significantly higher prevalence of vaccine hesitancy among parents 
+of children with psychiatric disorders (54.1%, 95% CI [47.8%, 60.4%], n = 132) 
+compared to controls (11.7%, 95% CI [7.5%, 16.0%], n = 26), p < .001. The PACV 
+total score was significantly higher in parents of children with a mental 
+disorder. Higher education among parents and lower PACV scores significantly 
+influenced the intent to vaccinate against COVID-19. Tailored interventions by 
+child and adolescent mental healthcare professionals, such as harnessing 
+artificial intelligence to fight disinformation, are crucial to addressing 
+vaccine hesitancy, enhancing acceptance, and improving outcomes for children 
+with psychiatric disorders.
+
+DOI: 10.1080/21645515.2024.2412385
+PMID: 39410905 [Indexed for MEDLINE]

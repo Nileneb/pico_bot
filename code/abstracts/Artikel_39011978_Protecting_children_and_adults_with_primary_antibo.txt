@@ -1,0 +1,47 @@
+Titel: Protecting children and adults with primary antibody deficiencies against common and emergent pathogens and non-infectious complications.
+Autoren: Neth O, Mahlaoui N, Cunningham-Rundles C
+Veröffentlichungsdatum: 2024 Oct 16
+
+Abstract:
+1. Clin Exp Immunol. 2024 Oct 16;218(2):136-150. doi: 10.1093/cei/uxae059.
+
+Protecting children and adults with primary antibody deficiencies against common 
+and emergent pathogens and non-infectious complications.
+
+Neth O(1), Mahlaoui N(2)(3), Cunningham-Rundles C(4)(5).
+
+Author information:
+(1)Pediatric Infectious Diseases, Rheumatology and Immunology, University 
+Hospital Virgen del Rocío, Institute of Biomedicine of Seville (IBiS), Sevilla, 
+Spain.
+(2)French National Reference Center for Primary Immunodeficiencies (CEREDIH), 
+Necker-Enfants Malades University Hospital, Assistance Publique-Hôpitaux de 
+Paris (APHP), Paris, France.
+(3)Pediatric Immuno-Hematology and Rheumatology Unit, Necker-Enfants Malades 
+University Hospital, Assistance Publique-Hôpitaux de Paris (APHP), Paris, 
+France.
+(4)Department of Medicine, Icahn School of Medicine at Mount-Sinai, New York, 
+NY, USA.
+(5)Department of Pediatrics, Icahn School of Medicine at Mount-Sinai, New York, 
+NY, USA.
+
+Prevention and treatment of infections are primary goals of treatment of 
+children and adults with primary immune deficiencies due to decreased antibody 
+production. Approaches to these goals include immunoglobulin replacement 
+therapy, vaccination, and prophylactic treatment with antimicrobials. In this 
+review, the infectious and non-infectious complications of antibody deficiencies 
+will be discussed along with the limited number of studies that support the 
+effective use of the available therapies and to drive the development of new 
+therapies. Some illustrative case studies will be presented and the outlook for 
+additional controlled clinical trials and potential for therapies driven by the 
+underlying disease genetics will be considered.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of the 
+British Society for Immunology. All rights reserved. For commercial re-use, 
+please contact reprints@oup.com for reprints and translation rights for 
+reprints. All other permissions can be obtained through our RightsLink service 
+via the Permissions link on the article page on our site—for further information 
+please contact journals.permissions@oup.com.
+
+DOI: 10.1093/cei/uxae059
+PMID: 39011978 [Indexed for MEDLINE]

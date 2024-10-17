@@ -1,0 +1,45 @@
+Titel: Analysis of antibody dynamics in Chinese children aged 1-3 years after single-dose varicella vaccination: A 42 months prospective study.
+Autoren: Sun X, Zhang L, Wang Z, Wang W
+Veröffentlichungsdatum: 2024 Dec 31
+
+Abstract:
+1. Hum Vaccin Immunother. 2024 Dec 31;20(1):2410065. doi: 
+10.1080/21645515.2024.2410065. Epub 2024 Oct 16.
+
+Analysis of antibody dynamics in Chinese children aged 1-3 years after 
+single-dose varicella vaccination: A 42 months prospective study.
+
+Sun X(1), Zhang L(1), Wang Z(1), Wang W(2).
+
+Author information:
+(1)Department of Expanded Program on Immunization, Jiangsu Provincial Center for 
+Disease Control and Prevention, Nanjing, Jiangsu, China.
+(2)Department of Rheumatology and Immunology, The Affiliated Suqian First 
+People's Hospital of Nanjing Medical University, Suqian, Jiangsu, China.
+
+In China, children aged 12 months receive only a single dose of the varicella 
+vaccine and the incidence of varicella remains high. This study aims to evaluate 
+the changes in immunity among children aged 1-3 years following a single dose of 
+the varicella vaccine, providing a scientific basis for determining the optimal 
+age for a second vaccination. This prospective cohort study employed 
+glycoprotein enzyme-linked immunosorbent assay (gpELISA) for antibody detection. 
+The changes in IgG antibody levels over time post-vaccination were analyzed 
+using a restricted cubic spline (RCS) fitted binary logistic regression model. 
+Varicella surveillance data were collected from the National Notifiable Disease 
+Reporting System (NNDRS). Following a peak in varicella incidence in 2019, the 
+incidence shifted toward older age groups. The cohort study results revealed a 
+seropositivity rate of 100% in children during the 18 months post-vaccination, 
+which subsequently declined to 71.6% by the 42 months. The geometric mean 
+concentration (GMC) decreased from 307.6mIU/mL to 115.2mIU/mL. Additionally, 14 
+children contracted varicella during the follow-up period, resulting in a 
+breakthrough rate of 2.85%. RCS analysis indicated that antibody levels fell 
+below the protective threshold 18.69 months post-vaccination, with a non-linear 
+decline in the odds ratio(OR) of maintaining antibody 
+concentrations ≥ 50mIU/mL(p < .001, Pnonlinear ≤ 0.001). This study demonstrates 
+that the long-term protective efficacy of a single dose of the varicella vaccine 
+diminishes over time in children, underscoring the necessity of implementing a 
+two-dose vaccination strategy. The findings provide scientific evidence for 
+determining the optimal timing for administering the second dose of the vaccine.
+
+DOI: 10.1080/21645515.2024.2410065
+PMID: 39411866 [Indexed for MEDLINE]

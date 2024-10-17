@@ -1,0 +1,60 @@
+Titel: Referral pathway and competency profiles of primary care physiotherapists and kinesiologists for physical activity interventions for diabetes: a modified Delphi study.
+Autoren: Proctor C, Brown CL
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. BMC Prim Care. 2024 Oct 15;25(1):368. doi: 10.1186/s12875-024-02611-1.
+
+Referral pathway and competency profiles of primary care physiotherapists and 
+kinesiologists for physical activity interventions for diabetes: a modified 
+Delphi study.
+
+Proctor C(1), Brown CL(2).
+
+Author information:
+(1)The College of Rehabilitation Sciences, Rady Faculty of Health Sciences, 
+University of Manitoba, Winnipeg, MB, Canada. carly.proctor@umanitoba.ca.
+(2)The College of Rehabilitation Sciences, Rady Faculty of Health Sciences, 
+University of Manitoba, Winnipeg, MB, Canada.
+
+BACKGROUND: High quality diabetes care is an essential service in primary care 
+settings since the prevalence and associated complications of diabetes is 
+increasing. Physical activity is effective for the prevention and management of 
+diabetes yet is underutilized in diabetes care. Exercise professionals have 
+specialized skills to deliver physical activity interventions, but effective 
+interprofessional collaboration for diabetes care requires role clarity. This 
+study established the competencies of entry-level physiotherapists and 
+kinesiologists for physical activity interventions for diabetes care in primary 
+care settings and used these competencies to develop clinical tools to promote 
+role clarity in interprofessional care teams.
+METHODS: We used a modified Delphi process. Eleven physiotherapy and three 
+kinesiology subject matter experts participated in two rounds of Delphi surveys 
+to develop discipline and context specific competencies. These competencies were 
+used to draft competency profiles and a referral pathway tool. Eleven of the 
+participants then participated in a focus group for member-checking of the 
+tools. Descriptive statistics and content analysis were used to analyze 
+quantitative and qualitative data respectively.
+RESULTS: The modified Delphi process resulted in 38 physiotherapy and 27 
+kinesiology competencies that identify the distinct roles of physiotherapists 
+and kinesiologists in delivering physical activity interventions for diabetes 
+care. The physiotherapy competencies describes their unique role in supporting 
+people with all types of diabetes to engage in physical activity despite complex 
+medical or physical barriers. The kinesiology competencies indicate where these 
+professionals may require additional training, especially when working with 
+people living with type 1 diabetes or who are pregnant. All developed tools had 
+good face validity and were seen to be potentially useful tools by the subject 
+matter experts.
+CONCLUSIONS: The findings highlight that both physiotherapists and 
+kinesiologists have fundamental skills and abilities to deliver physical 
+activity interventions to people living with diabetes, but that different 
+exercise professionals may be needed depending on the complexity of the clinical 
+profile. The developed clinical tools support improved interprofessional 
+collaboration by clarifying physiotherapy and kinesiology roles in delivering 
+physical activity interventions for diabetes care and highlighting how the two 
+distinct professions can contribute to addressing the growing diabetes epidemic 
+in primary care.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12875-024-02611-1
+PMID: 39407129 [Indexed for MEDLINE]

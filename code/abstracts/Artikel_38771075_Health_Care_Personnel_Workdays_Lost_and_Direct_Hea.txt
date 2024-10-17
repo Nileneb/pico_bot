@@ -1,0 +1,60 @@
+Titel: Health Care Personnel Workdays Lost and Direct Health Care Salary Costs Incurred due to COVID-19 Infection in the Age of Widespread Vaccine Availability.
+Autoren: Townsend L, Gillespie P, McGrath J, Kenny C, PRECISE Study Steering Group, Bergin C, Fleming C
+Veröffentlichungsdatum: 2024 Oct 16
+
+Abstract:
+1. J Infect Dis. 2024 Oct 16;230(4):e872-e880. doi: 10.1093/infdis/jiae223.
+
+Health Care Personnel Workdays Lost and Direct Health Care Salary Costs Incurred 
+due to COVID-19 Infection in the Age of Widespread Vaccine Availability.
+
+Townsend L(1)(2), Gillespie P(3)(4), McGrath J(1), Kenny C(5); PRECISE Study 
+Steering Group; Bergin C(1)(2), Fleming C(5).
+
+Collaborators: Doherty L, Domegan L, Conlon N, Martin G, de Gascun C, Gallagher 
+J, Keogan M, Noonan N, O'Farrelly C, Byrne D.
+
+Author information:
+(1)Department of Infectious Diseases, St James's Hospital, Dublin, Ireland.
+(2)Department of Clinical Medicine, Trinity College Dublin, Dublin, Ireland.
+(3)Health Economics and Policy Analysis Centre, Institute for Lifecourse and 
+Society, University of Galway, Galway, Ireland.
+(4)CÚRAM, Science Foundation Ireland Research Centre for Medical Devices, 
+University of Galway, Galway, Ireland.
+(5)Department of Infectious Diseases, University Hospital Galway, Galway, 
+Ireland.
+
+BACKGROUND: Vaccination against coronavirus disease 2019 (COVID-19) can mitigate 
+the burden of health care worker (HCW) infection. We investigate the burden of 
+HCW illness and its associated direct health care personnel costs in the setting 
+of widespread vaccine availability and explore factors influencing these 
+outcomes.
+METHODS: This multicenter prospective study followed HCWs over an 8-month period 
+from January to August 2023. Data recorded included incident COVID-19 infection, 
+symptom burden, workdays missed, and vaccine history. Workdays lost due to 
+illness were used to calculate direct health care personnel costs due to 
+COVID-19 infection. Univariate analysis and multivariable regression 
+investigated the factors associated with workdays lost and direct health care 
+personnel.
+RESULTS: In total, 1218 participants were enrolled and followed for 8 months, 
+with 266 incidents of severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2) infection, 1191 workdays lost, and health care personnel costs of 
+€397 974. Multivariable regression revealed that workdays lost were associated 
+with incomplete primary COVID-19 vaccination course. Being unvaccinated, older 
+age, and male were associated with increased health care personnel costs.
+CONCLUSIONS: Health care workdays lost remain a significant issue and are 
+associated with health care system burden despite vaccine availability. These 
+can be mitigated via targeted implementation of vaccine programs. Seasonal 
+variation in health care workdays lost should inform workforce planning to 
+accommodate surge periods.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of 
+Infectious Diseases Society of America.
+
+DOI: 10.1093/infdis/jiae223
+PMID: 38771075 [Indexed for MEDLINE]
+
+Conflict of interest statement: Potential conflicts of interest. All authors: No 
+reported conflicts. All authors have submitted the ICMJE Form for Disclosure of 
+Potential Conflicts of Interest. Conflicts that the editors consider relevant to 
+the content of the manuscript have been disclosed.

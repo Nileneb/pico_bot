@@ -1,0 +1,74 @@
+Titel: Effectiveness of bivalent HPV vaccination against genital HPV DNA-positivity of a catch-up campaign at age 13-16 years compared to routine vaccination at age 12 years: a biennial repeated cross-sectional study.
+Autoren: Kusters JMA, van der Loeff MFS, van Benthem BHB, King AJ, PASSYON study group, de Melker HE, Heijman T, Heijne JCM
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. BMC Med. 2024 Oct 15;22(1):469. doi: 10.1186/s12916-024-03686-4.
+
+Effectiveness of bivalent HPV vaccination against genital HPV DNA-positivity of 
+a catch-up campaign at age 13-16 years compared to routine vaccination at age 
+12 years: a biennial repeated cross-sectional study.
+
+Kusters JMA(1)(2)(3), van der Loeff MFS(4)(5)(6)(7), van Benthem BHB(8), King 
+AJ(8); PASSYON study group; de Melker HE(8), Heijman T(6), Heijne 
+JCM(4)(5)(6)(7).
+
+Collaborators: van der Meijden H, Kampman K, Hoornenborg E, Bak A, Smit M, van 
+Buel H, Neienhuijsen F, Ippel M, Schriemer D, Swart I, Twisk D.
+
+Author information:
+(1)Centre for Infectious Diseases Control, National Institute for Public Health 
+and the Environment, Antonie Van Leeuwenhoeklaan 9, 3721 MA, Bilthoven, the 
+Netherlands. jeroen.kusters@rivm.nl.
+(2)Institute for Immunology and Infectious Diseases (AII), Amsterdam, UMC , 
+Amsterdam, the Netherlands. jeroen.kusters@rivm.nl.
+(3)Amsterdam Public Health Research Institute (APH), Amsterdam, the Netherlands. 
+jeroen.kusters@rivm.nl.
+(4)Institute for Immunology and Infectious Diseases (AII), Amsterdam, UMC , 
+Amsterdam, the Netherlands.
+(5)Amsterdam Public Health Research Institute (APH), Amsterdam, the Netherlands.
+(6)Department of Infectious Diseases, Public Health Service of Amsterdam, 
+Amsterdam, the Netherlands.
+(7)Amsterdam UMC, Department of Internal Medicine, Location University of 
+Amsterdam, Amsterdam, the Netherlands.
+(8)Centre for Infectious Diseases Control, National Institute for Public Health 
+and the Environment, Antonie Van Leeuwenhoeklaan 9, 3721 MA, Bilthoven, the 
+Netherlands.
+
+BACKGROUND: The Netherlands is one of few countries worldwide which has used the 
+bivalent HPV vaccine for girls-only for over a decade. This allows assessment of 
+vaccine effectiveness (VE) against female genital HPV DNA-positivity of this 
+vaccine in an observational post-licencing real-world setting. Additionally, it 
+is unclear whether catch-up vaccination campaigns result in similar VE as 
+routine vaccination. Therefore, type-specific and grouped VE were assessed and 
+compared for women who had been eligible for catch-up vaccination at 13-16 years 
+with those who had been eligible for routine vaccination at 12 years.
+METHODS: PASSYON is a Dutch biennial repeated cross-sectional (2011-2021) study 
+among sexual health clinic clients aged 16-24 years old. Women provided 
+self-collected vaginal samples, questionnaires on demographics and sexual 
+behaviour were administered, and women self-reported HPV vaccination status. 
+Samples were analysed using a PCR-based assay (SPF10-LiPA25). Type-specific and 
+grouped VE estimates, adjusted with propensity score stratification, were 
+assessed against genital positivity for 14 HPV types. VE for targeted and 
+non-targeted genotypes were compared between women who had been eligible for the 
+catch-up and those who had been eligible for routine vaccination.
+RESULTS: The study included 4488 female participants who had been eligible for 
+HPV vaccination and provided genital swabs (1561 eligible for catch-up, 2927 for 
+routine vaccination). Very high VE against genital HPV-16 and HPV-18 was 
+observed (resp. 93.5% and 89.5%) and significant cross-protection against six 
+other genotypes (HPV-31/33/35/45/52/58), varying from 18.0% (HPV-52) to 79.6% 
+(HPV-45). VE estimates were comparable between women who had been eligible for 
+the catch-up campaign and those eligible for routine vaccination: VE 
+HPV-16/HPV-18: 92.2% (95%CI: 87.9-94.9) vs. 91.8% (95%CI: 86.0-95.2).
+CONCLUSIONS: In real-world settings, the VE of bivalent vaccine is high against 
+targeted genotypes, with cross-protection against 6 other genotypes. Catch-up 
+campaigns up to age 16 years can be as effective as routine vaccination at age 
+12, although it is recommendable to provide HPV vaccination at an age at which 
+most are likely not sexually active yet. This may inform countries considering 
+catch-up campaigns when introducing or extending the use of HPV vaccination 
+within their national immunisation programmes.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12916-024-03686-4
+PMID: 39407233 [Indexed for MEDLINE]

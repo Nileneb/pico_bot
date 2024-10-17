@@ -1,0 +1,69 @@
+Titel: Digital health literacy among undergraduate nursing students in China: associations with health lifestyles and psychological resilience.
+Autoren: Liu L, Fu M, Wu J, Wang H, Zhao J, Chen P, Cao J, Zhang W, Lin Q, Li L
+Veröffentlichungsdatum: 2024 Oct 14
+
+Abstract:
+1. BMC Med Educ. 2024 Oct 14;24(1):1139. doi: 10.1186/s12909-024-06075-w.
+
+Digital health literacy among undergraduate nursing students in China: 
+associations with health lifestyles and psychological resilience.
+
+Liu L(1), Fu M(2), Wu J(3), Wang H(1), Zhao J(4), Chen P(4), Cao J(1), Zhang 
+W(1), Lin Q(5), Li L(6).
+
+Author information:
+(1)Department of Discipline Research, Sichuan Nursing Vocational College, 
+Chengdu, 610100, China.
+(2)Department of Rehabilitation, People's Hospital of Jianyang, Jianyang, 
+641400, China.
+(3)Department of Cardiology, People's Hospital of Deyang, Deyang, 618099, China.
+(4)Shulan International Medical College, Zhejiang Shuren University, Hangzhou, 
+310015, China.
+(5)Shulan International Medical College, Zhejiang Shuren University, Hangzhou, 
+310015, China. hopeqinlin@foxmail.com.
+(6)Shulan International Medical College, Zhejiang Shuren University, Hangzhou, 
+310015, China. lianghong908@126.com.
+
+BACKGROUND: Digital health literacy (DHL) is pivotal for individuals to access 
+trustworthy health information and make informed decisions, closely intertwined 
+with health behaviors and psychological resilience-these factors collectively 
+shape an individual's approach to health management. Despite extensive research 
+on digital health literacy in broader populations, the specific dynamics of 
+digital health literacy in relation to health behaviors and psychological 
+resilience among undergraduate nursing students in China remain understudied, 
+highlighting a gap that this research endeavors to address. This study aims to 
+assess the levels of digital health literacy among undergraduate nursing 
+students in China, and to explore its association with health lifestyles and 
+psychological resilience, which are considered influential factors.
+METHODS: Employing a descriptive cross-sectional research design, eligible 
+Chinese nursing undergraduates were surveyed from June to October 2023. This 
+study recruited a total of 418 undergraduate nursing students. After excluding 
+11 students on leave, 407 students participated in questionnaire completion and 
+submission. The College Students' Digital Health Literacy Scale, Healthy 
+Lifestyle Assessment Scale and The Psychological Resilience Scale were used in 
+this study.
+RESULTS: The mean scores for digital health literacy, health lifestyles, and 
+psychological resilience were 74.78 ± 8.44, 127.14 ± 11.22, and 79.21 ± 11.02, 
+respectively. Pearson correlation analysis results indicated that the 
+correlations between digital health literacy and both health lifestyles 
+(r = 0.707, P < 0.01) and psychological resilience (r = 0.638, P < 0.01) were 
+statistically significant and positive. The multiple linear regression analysis 
+revealed that volunteer activity experience, academic performance, physical 
+fitness, psychological traits, health lifestyle, and psychological resilience 
+significantly predicted digital health literacy (F = 58.091, P < 0.001, R² = 
+0.678, adjusted R² = 0.666). Specifically, excellent academic performance 
+(β = 0.210, P < 0.001) and good physical fitness (β = 0.188, P = 0.002) were the 
+strongest predictors of higher digital health literacy.
+CONCLUSIONS: There is a correlation between the digital health literacy of 
+nursing undergraduates and their health lifestyles and psychological resilience. 
+Future research should consider interventions in digital health literacy for 
+undergraduate nursing students in China from the perspectives of health 
+lifestyles and psychological resilience.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12909-024-06075-w
+PMCID: PMC11476067
+PMID: 39402500 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.

@@ -1,0 +1,109 @@
+Titel: Noninferior Immunogenicity and Consistent Safety of Respiratory Syncytial Virus Prefusion F Protein Vaccine in Adults 50-59 Years Compared to ≥60 Years of Age.
+Autoren: Ferguson M, Schwarz TF, Núñez SA, Rodríguez-García J, Mital M, Zala C, Schmitt B, Toursarkissian N, Mazarro DO, Großkopf J, Voors-Pette C, Mehta H, Hailemariam HA, de Heusch M, Salaun B, Damaso S, David MP, Descamps D, Hill J, Vandermeulen C, Hulstrøm V, RSV OA=ADJ-018 Study Group
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. Clin Infect Dis. 2024 Oct 15;79(4):1074-1084. doi: 10.1093/cid/ciae364.
+
+Noninferior Immunogenicity and Consistent Safety of Respiratory Syncytial Virus 
+Prefusion F Protein Vaccine in Adults 50-59 Years Compared to ≥60 Years of Age.
+
+Ferguson M(1), Schwarz TF(2), Núñez SA(3), Rodríguez-García J(4), Mital M(5), 
+Zala C(6), Schmitt B(7), Toursarkissian N(8), Mazarro DO(9), Großkopf J(10), 
+Voors-Pette C(11), Mehta H(12), Hailemariam HA(13), de Heusch M(13), Salaun 
+B(13), Damaso S(13), David MP(13), Descamps D(13), Hill J(13), Vandermeulen 
+C(13), Hulstrøm V(13); RSV OA=ADJ-018 Study Group.
+
+Collaborators: Abd-Elaziz KS, Adams MS, Barts A, Cannon K, Davis M, de Las 
+Fuentes Galán S, de Los Ríos Rodríguez M, De Salvo MC, DeGregoria L, Del Campo 
+Pérez V, Drescher T, Dunsmoor-Su R, Dzongowski P, Echave-Sustaeta JM, Eckermann 
+TJ, Fuller AE, Garí Parera J, Gauthier JS, Geller S, Ghesquiere W, Gonzalez A, 
+González Cediel P, Grasch A, Helman LL, Hernandez S, Herranz Urbasos M, Itcovici 
+N, Klein T, Labrador Gómez J, Blanco AL, Leblanc R, Luttermann M, Marks K, 
+Masuet-Aumatell C, Möckesch L, Michelle Moreno Silva T, Narejos Perez S, Noveck 
+RJ, Oude Nijhuis JC, Paquette JS, Pek B, Plassmann G, Pritt R, Palma MP, 
+Rocha-Calderon C, Royer P, Shu D, Sia YT, Sieber A, Simmons T, Sinclair L, Smith 
+WB, Soufer J, Suarez Simón A, Rifa GV, Teresa Vilella Moreno M, Weber U, de la 
+Higuera AMY, Ylisastigui P.
+
+Author information:
+(1)Colchester Research Group, Truro, Canada.
+(2)Institute of Laboratory Medicine and Vaccination Centre, Klinikum Würzburg 
+Mitte, Campus Juliusspital, Würzburg Mitte, Würzburg, Germany.
+(3)Infectología, Centro Medico Maffei, Buenos Aires, Argentina.
+(4)Preventive Medicine Department, Immunocompromised Patient Immunization Unit, 
+Son Espases University Hospital, Palma de Mallorca, Mallorca, Balearic Islands, 
+Spain.
+(5)Agnieszka Mital Centrum Badan Clinic, Elblag, Poland.
+(6)Vacunar, Sede Las Cañitas, Buenos Aires, Argentina.
+(7)Studienzentrum Mainz Mitte, Mainz, Germany.
+(8)Praxis Dr. Med. Nicole Toursarkissian, Berlin, Germany.
+(9)Clinical Pharmacology Department, Hospital Universitario De La Princesa, 
+Instituto de Investigación Sanitaria La Princesa, Universidad Autónoma de 
+Madrid, Madrid, Spain.
+(10)Praxis Dr. Med. Josef Großkopf, Wallerfing, Germany.
+(11)QPS Netherlands B.V., Groningen, The Netherlands.
+(12)Clinical Research Institute, Minneapolis, Minnesota, USA.
+(13)GSK, Wavre, Belgium.
+
+Comment in
+    Clin Infect Dis. 2024 Oct 15;79(4):1099-1101. doi: 10.1093/cid/ciae362.
+
+BACKGROUND: The adjuvanted respiratory syncytial virus (RSV) prefusion F 
+protein-based vaccine (RSVPreF3 OA) is approved in adults aged ≥60 years. We 
+evaluated RSVPreF3 OA immunogenicity and safety in adults aged 50-59 years 
+without or with increased risk for RSV disease due to specific chronic medical 
+conditions.
+METHODS: This observer-blind, phase 3, noninferiority trial included adults aged 
+50-59 years, stratified into 2 subcohorts: those with and those without 
+predefined, stable, chronic medical conditions leading to an increased risk for 
+RSV disease. Participants in both subcohorts were randomized 2:1 to receive 
+RSVPreF3 OA or placebo. A control group of adults aged ≥60 years received 
+RSVPreF3 OA. Primary outcomes were RSV-A and RSV-B neutralization titers 
+(geometric mean titer ratios and sero-response rate differences) 1 month 
+post-vaccination in 50-59-year-olds versus ≥60-year-olds. Cell-mediated immunity 
+and safety were also assessed.
+RESULTS: The exposed population included 1152 participants aged 50-59 years and 
+381 participants aged ≥60 years. RSVPreF3 OA was immunologically noninferior in 
+50-59-year-olds versus ≥60-year-olds; noninferiority criteria were met for RSV-A 
+and RSV-B neutralization titers in those with and those without increased risk 
+for RSV disease. Frequencies of RSVPreF3-specific polyfunctional CD4+ T cells 
+increased substantially from pre- to 1 month post-vaccination. Most solicited 
+adverse events had mild-to-moderate intensity and were transient. Unsolicited 
+and serious adverse event rates were similar in all groups.
+CONCLUSIONS: RSVPreF3 OA was immunologically noninferior in 50-59-year-olds 
+compared to ≥60-year-olds, in whom efficacy was previously demonstrated. The 
+safety profile in 50-59-year-olds was consistent with that in ≥60-year-olds.
+CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov: NCT05590403.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of 
+Infectious Diseases Society of America.
+
+DOI: 10.1093/cid/ciae364
+PMCID: PMC11478578
+PMID: 39099093 [Indexed for MEDLINE]
+
+Conflict of interest statement: Potential conflicts of interest . H. A. H., M. 
+d. H., B. S., S. D., M.-P. D., D. D., J. H., C. V., and V. H. are/were GSK 
+employees at the time when the study was designed and/or conducted. H. A. H., M. 
+d. H., B. S., S. D., M.-P. D., D. D., J. H., and V. H. hold shares in GSK as 
+part of their employee remuneration. M.-P. D. is a co-applicant on a pending 
+patent filed by GSK. M. F. received study-related payments for training and 
+study conduct from GSK. T. F. S. received honoraria for lectures from 
+AstraZeneca, Bavarian Nordic, Biogen, CSL-Seqirus, GSK, Janssen-Cilag, 
+Merck-Serono, Moderna, Novavax, MSD, Pfizer, Roche, Sanofi-Aventis, and Takeda; 
+he participated on advisory boards for Bavarian Nordic, CSL-Seqirus, BioNTech, 
+GSK, Moderna, Novavax, and Takeda. S. A. N. declares study-related payments to 
+his institution from GSK and support from GSK to attend investigators meetings. 
+J. R.-G. declares study-related payments from GSK and honoraria and support for 
+attending meetings and/or travel from GSK, Pfizer, and Sanofi-MSD; he also 
+participated on data and safety monitoring boards or advisory boards from GSK 
+and Pfizer. C. Z. received grants from GSK for the conduct of this study and 
+support from GSK for attending meetings. J. G. declares study-related payments 
+from GSK; grants from Novartis, Pharmalog, New Amsterdam Pharma, Syneos, 
+Winecker Pharma, and Lilly; and consulting fees, honoraria, payment for expert 
+testimony, and support for attending meetings and/or travel from GSK. C. V.-P. 
+is a former employee of QPS Netherlands B.V. The other authors report no 
+potential conflicts. All authors have submitted the ICMJE Form for Disclosure of 
+Potential Conflicts of Interest. Conflicts that the editors consider relevant to 
+the content of the manuscript have been disclosed.

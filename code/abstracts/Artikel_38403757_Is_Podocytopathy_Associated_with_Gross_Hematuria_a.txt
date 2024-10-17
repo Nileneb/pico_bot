@@ -1,0 +1,37 @@
+Titel: Is Podocytopathy Associated with Gross Hematuria after COVID-19 Vaccination in Patients with Immunoglobulin A Nephropathy?
+Autoren: Suenaga A, Sawa N, Oba Y, Ikuma D, Sekine A, Yamanouchi M, Hasegawa E, Mizuno H, Suwabe T, Kono K, Kinowaki K, Ohashi K, Miyazono M, Yamaguchi Y, Uesugi N, Ubara Y
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. Intern Med. 2024 Oct 15;63(20):2821-2825. doi:
+10.2169/internalmedicine.3247-23.  Epub 2024 Feb 26.
+
+Is Podocytopathy Associated with Gross Hematuria after COVID-19 Vaccination in 
+Patients with Immunoglobulin A Nephropathy?
+
+Suenaga A(1)(2), Sawa N(1)(3), Oba Y(1), Ikuma D(1), Sekine A(4), Yamanouchi 
+M(1), Hasegawa E(3)(4), Mizuno H(1), Suwabe T(1), Kono K(5), Kinowaki K(5), 
+Ohashi K(5)(6), Miyazono M(2), Yamaguchi Y(7), Uesugi N(8), Ubara Y(1)(3).
+
+Author information:
+(1)Department of Nephrology and Rheumatology, Toranomon Hospital Kajigaya, 
+Japan.
+(2)Department of Nephrology, Saga University Internal Medicine, Japan.
+(3)Okinaka Memorial Institute for Medical Research, Toranomon Hospital, Japan.
+(4)Department of Nephrology and Rheumatology, Toranomon Hospital, Japan.
+(5)Department of Pathology, Toranomon Hospital, Japan.
+(6)Department of Human Pathology, Tokyo Medical Dental University, Japan.
+(7)Yamaguchi's Pathology Laboratory, Japan.
+(8)Department of Pathology, Faculty of Medicine, Fukuoka University, Japan.
+
+We experienced three cases of a fever and subsequent severe, prolonged gross 
+hematuria after COVID-19 vaccination. A kidney biopsy revealed immunoglobulin A 
+(IgA) nephropathy, and electron microscopy showed two types of podocytopathy 
+(podocyte damage): loss of foot processes from the glomerular basement membrane 
+and foot process effacement. Mesangial interposition was also present in cases 1 
+and 3 but not in case 2. Podocytopathy is known to be a cause of proteinuria; 
+however, the reactions to COVID-19 vaccination described here suggest that it 
+may also be related to hematuria in IgA nephropathy.
+
+DOI: 10.2169/internalmedicine.3247-23
+PMID: 38403757 [Indexed for MEDLINE]

@@ -1,0 +1,84 @@
+Titel: Associations of "Weekend Warrior" Physical Activity With Incident Disease and Cardiometabolic Health.
+Autoren: Kany S, Al-Alusi MA, Rämö JT, Pirruccello JP, Churchill TW, Lubitz SA, Maddah M, Guseh JS, Ellinor PT, Khurshid S
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. Circulation. 2024 Oct 15;150(16):1236-1247. doi: 
+10.1161/CIRCULATIONAHA.124.068669. Epub 2024 Sep 26.
+
+Associations of "Weekend Warrior" Physical Activity With Incident Disease and 
+Cardiometabolic Health.
+
+Kany S(1)(2)(3)(4), Al-Alusi MA(3)(4)(5), Rämö JT(3)(4)(6), Pirruccello 
+JP(3)(7)(8), Churchill TW(4)(9), Lubitz SA(3)(4)(10), Maddah M(11), Guseh 
+JS(4)(9), Ellinor PT(#)(3)(4)(10), Khurshid S(#)(3)(4)(10).
+
+Author information:
+(1)Department of Cardiology, University Heart and Vascular Center 
+Hamburg-Eppendorf, Hamburg, Germany (S. Kany).
+(2)German Center for Cardiovascular Research (DZHK), Partner Site 
+Hamburg/Kiel/Lübeck, Hamburg, Germany (S. Kany).
+(3)Cardiovascular Disease Initiative (S. Kany, M.A.A.-A., J.T.R., J.P.P., 
+S.A.L., P.T.E., S. Khurshid), Broad Institute of MIT and Harvard, Cambridge.
+(4)Cardiovascular Research Center (S. Kany, M.A.A.-A., J.T.R., T.W.C., S.A.L., 
+J.S.G., P.T.E., S. Khurshid), Massachusetts General Hospital, Boston.
+(5)Cardiology Division (M.A.A.-A.), Massachusetts General Hospital, Boston.
+(6)Institute for Molecular Medicine Finland, Helsinki Institute of Life Science, 
+University of Helsinki (J.T.R.).
+(7)Division of Cardiology (J.P.P.), University of California, San Francisco.
+(8)Institute for Human Genetics (J.P.P.), University of California, San 
+Francisco.
+(9)Cardiovascular Performance Program (T.W.C., S.G.), Massachusetts General 
+Hospital, Boston.
+(10)Demoulas Center for Cardiac Arrhythmias (S.A.L., P.T.E., S. Khurshid), 
+Massachusetts General Hospital, Boston.
+(11)Data Sciences Platform (M.M.), Broad Institute of MIT and Harvard, 
+Cambridge.
+(#)Contributed equally
+
+BACKGROUND: Achievement of guideline-recommended levels of physical activity 
+(≥150 minutes of moderate-to-vigorous physical activity per week) is associated 
+with lower risk of adverse cardiovascular events and represents an important 
+public health priority. Although physical activity commonly follows a "weekend 
+warrior" pattern, in which most moderate-to-vigorous physical activity is 
+concentrated in 1 or 2 days rather than spread more evenly across the week 
+(regular), the effects of physical activity pattern across a range of incident 
+diseases, including cardiometabolic conditions, are unknown.
+METHODS: We tested associations between physical activity pattern and incidence 
+of 678 conditions in 89 573 participants (62±8 years of age; 56% women) of the 
+UK Biobank prospective cohort study who wore an accelerometer for 1 week between 
+June 2013 and December 2015. Models were adjusted for multiple baseline clinical 
+factors, and P value thresholds were corrected for multiplicity.
+RESULTS: When compared to inactive (<150 minutes moderate-to-vigorous physical 
+activity/week), both weekend warrior (267 total associations; 264 [99%] with 
+lower disease risk; hazard ratio [HR] range, 0.35-0.89) and regular activity 
+(209 associations; 205 [98%] with lower disease risk; HR range, 0.41-0.88) were 
+broadly associated with lower risk of incident disease. The strongest 
+associations were observed for cardiometabolic conditions such as incident 
+hypertension (weekend warrior: HR, 0.77 [95% CI, 0.73-0.80]; P=1.2×10-27; 
+regular: HR, 0.72 [95% CI, 0.68-0.77]; P=4.5×10-28), diabetes (weekend warrior: 
+HR, 0.57 [95% CI, 0.51-0.62]; P=3.9×10-32; regular: HR, 0.54 [95% CI, 
+0.48-0.60]; P=8.7×10-26), obesity (weekend warrior: HR, 0.55 [95% CI, 
+0.50-0.60]; P=2.4×10-43, regular: HR, 0.44 [95% CI, 0.40-0.50]; P=9.6×10-47), 
+and sleep apnea (weekend warrior: HR, 0.57 [95% CI, 0.48-0.69]; P=1.6×10-9; 
+regular: HR, 0.49 [95% CI, 0.39-0.62]; P=7.4×10-10). When weekend warrior and 
+regular activity were compared directly, there were no conditions for which 
+effects differed significantly. Observations were similar when activity was 
+thresholded at the sample median (≥230.4 minutes of moderate-to-vigorous 
+physical activity/week).
+CONCLUSIONS: Achievement of measured physical activity volumes consistent with 
+guideline recommendations is associated with lower risk for >200 diseases, with 
+prominent effects on cardiometabolic conditions. Associations appear similar 
+whether physical activity follows a weekend warrior pattern or is spread more 
+evenly throughout the week.
+
+DOI: 10.1161/CIRCULATIONAHA.124.068669
+PMID: 39324186 [Indexed for MEDLINE]
+
+Conflict of interest statement: P.T.E. receives sponsored research support from 
+Bayer AG, Bristol Myers Squibb, Pfizer, and Novo Nordisk; he has also served on 
+advisory boards or consulted for Bayer AG. S.A.L. is an employee of Novartis as 
+of July 2022. S.A.L. received sponsored research support from Bristol Myers 
+Squibb, Pfizer, Boehringer Ingelheim, Fitbit, Medtronic, Premier, and IBM, and 
+has consulted for Bristol Myers Squibb, Pfizer, Blackstone Life Sciences, and 
+Invitae. The other authors report no conflicts.

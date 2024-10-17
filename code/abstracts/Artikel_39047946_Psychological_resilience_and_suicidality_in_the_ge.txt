@@ -1,0 +1,58 @@
+Titel: Psychological resilience and suicidality in the general population: A cross-sectional study based on data from the National Mental Health Survey of Korea 2021.
+Autoren: Lee SH, Kim J, Han C
+Veröffentlichungsdatum: 2024 Oct 15
+
+Abstract:
+1. J Affect Disord. 2024 Oct 15;363:15-25. doi: 10.1016/j.jad.2024.07.088. Epub 
+2024 Jul 22.
+
+Psychological resilience and suicidality in the general population: A 
+cross-sectional study based on data from the National Mental Health Survey of 
+Korea 2021.
+
+Lee SH(1), Kim J(2), Han C(3).
+
+Author information:
+(1)Department of Psychiatry, Korea University, Guro Hospital, College of 
+Medicine, Seoul, Republic of Korea.
+(2)Department of Psychiatry, Kangbuk Samsung Hospital, Sungkyunkwan University 
+School of Medicine, Seoul, Republic of Korea.
+(3)Department of Psychiatry, Korea University, Guro Hospital, College of 
+Medicine, Seoul, Republic of Korea. Electronic address: hancs@korea.ac.kr.
+
+BACKGROUND: The relationship between suicidality and resilience is underexplored 
+among the general population. This study aimed to explore the relationship 
+between lifetime, one-year, and one-month prevalence of suicidality (ideation, 
+plan, attempt) and resilience in the general population.
+METHODS: Data on suicidality, resilience, prevalence of major mental disorders, 
+and other key psychological factors were collected from the National Mental 
+Health Survey of Korea 2021. Interviewees comprised 5511 South Koreans aged 
+18-79 years. The contribution of resilience to suicidality was evaluated using 
+Rao-Scot logistic regression, adjusting for possible confounders such as mental 
+disorder prevalence and demographic and psychological characteristics.
+RESULTS: Significantly lower resilience levels were noted among participants who 
+reported lifetime, one-year, and one-month suicidal ideation, plan, or attempts. 
+High resilience levels predicted no suicidal ideation, plans, and attempts in 
+the lifetime, and no suicidal ideation and plans in the one-year and one-month 
+time frames.
+LIMITATIONS: First, this study's cross-sectional design has limitations for 
+ascertaining a causal relationship between resilience and suicidality. Second, 
+because the number of participants who had attempted suicide in the past year 
+and reported suicidal thoughts/attempts in the past month was small, there were 
+limitations in the analysis of suicidality in these time frames. Third, it was 
+difficult to rule out the mediating effects of personality and temperament on 
+the relationship between resilience and suicidality.
+CONCLUSIONS: High resilience levels predicted lower lifetime and current 
+suicidal ideation and suicidal planning in the general population. This study 
+shows that psychological resilience is an important factor in evaluating an 
+individual's current suicidality.
+
+Copyright © 2024 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2024.07.088
+PMID: 39047946 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of competing interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
